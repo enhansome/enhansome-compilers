@@ -43,7 +43,7 @@
                 "last_commit": "2024-08-07T12:07:07Z",
                 "owner": "munificent",
                 "repo": "craftinginterpreters",
-                "stars": 10985
+                "stars": 10988
               }
             }
           ]
@@ -70,7 +70,7 @@
             "last_commit": "2023-07-12T09:28:11Z",
             "owner": "quchen",
             "repo": "articles",
-            "stars": 1310
+            "stars": 1311
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-08-13T10:29:27Z",
             "owner": "capstone-engine",
             "repo": "capstone",
-            "stars": 8949
+            "stars": 8951
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-07-18T21:28:10Z",
             "owner": "keystone-engine",
             "repo": "keystone",
-            "stars": 2622
+            "stars": 2621
           }
         },
         {
@@ -341,10 +341,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T21:05:25Z",
+            "last_commit": "2026-08-15T20:25:57Z",
             "owner": "oracle",
             "repo": "graal",
-            "stars": 21662
+            "stars": 21661
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2024-08-16T10:22:51Z",
             "owner": "cglib",
             "repo": "cglib",
-            "stars": 4893
+            "stars": 4894
           }
         },
         {
@@ -671,7 +671,7 @@
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110161
+            "stars": 110170
           }
         },
         {
@@ -685,7 +685,7 @@
             "last_commit": "2026-08-14T00:16:12Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43980
+            "stars": 43984
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2025-11-27T01:42:59Z",
             "owner": "ziglang",
             "repo": "zig",
-            "stars": 43326
+            "stars": 43331
           }
         },
         {
@@ -710,10 +710,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T02:03:29Z",
+            "last_commit": "2026-08-16T02:03:10Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20609
+            "stars": 20608
           }
         },
         {
@@ -724,10 +724,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T02:09:34Z",
+            "last_commit": "2026-08-16T02:14:57Z",
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18651
+            "stars": 18652
           }
         },
         {
@@ -738,7 +738,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-14T19:12:26Z",
+            "last_commit": "2026-08-15T06:44:52Z",
             "owner": "nim-lang",
             "repo": "Nim",
             "stars": 18172
@@ -797,7 +797,7 @@
             "last_commit": "2026-07-11T08:33:45Z",
             "owner": "Frege",
             "repo": "frege",
-            "stars": 3704
+            "stars": 3705
           }
         },
         {
@@ -839,7 +839,7 @@
             "last_commit": "2022-07-31T17:14:19Z",
             "owner": "typelead",
             "repo": "eta",
-            "stars": 2633
+            "stars": 2632
           }
         },
         {
@@ -906,7 +906,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T22:14:22Z",
+            "last_commit": "2026-08-15T23:54:17Z",
             "owner": "ELENA-LANG",
             "repo": "elena-lang",
             "stars": 238
@@ -949,7 +949,7 @@
             "last_commit": "2023-12-26T06:13:39Z",
             "owner": "rswier",
             "repo": "c4",
-            "stars": 10774
+            "stars": 10776
           }
         },
         {
@@ -963,7 +963,7 @@
             "last_commit": "2025-10-22T16:42:57Z",
             "owner": "kanaka",
             "repo": "mal",
-            "stars": 10712
+            "stars": 10713
           }
         },
         {
@@ -1351,10 +1351,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T02:09:34Z",
+            "last_commit": "2026-08-16T02:14:57Z",
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18651
+            "stars": 18652
           }
         },
         {
@@ -1393,10 +1393,10 @@
           "repo_info": {
             "archived": false,
             "language": "Standard ML",
-            "last_commit": "2026-08-14T14:20:24Z",
+            "last_commit": "2026-08-15T13:11:56Z",
             "owner": "CakeML",
             "repo": "cakeml",
-            "stars": 1182
+            "stars": 1183
           }
         },
         {
@@ -1451,7 +1451,7 @@
             "last_commit": "2026-06-10T13:06:01Z",
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14735
+            "stars": 14737
           }
         },
         {
@@ -1465,7 +1465,7 @@
             "last_commit": "2026-08-10T02:54:08Z",
             "owner": "MattPD",
             "repo": "cpplinks",
-            "stars": 5277
+            "stars": 5276
           }
         },
         {
@@ -1479,7 +1479,7 @@
             "last_commit": "2026-07-17T09:15:28Z",
             "owner": "endrazine",
             "repo": "wcc",
-            "stars": 2005
+            "stars": 2004
           }
         },
         {
@@ -1511,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:39:33.764Z",
+    "last_updated": "2026-08-16T02:47:32.058Z",
     "original_repository": "aalhour/awesome-compilers",
     "original_repository_sha": "906d6f41127aef8987e92cba78856ad45c20637b",
     "enhanced_repository": "enhansome/enhansome-compilers",
