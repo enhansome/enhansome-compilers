@@ -1,1347 +1,1426 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "The BEAM Book",
+                  "description": "Description of the ERTS (Erlang Runtime System) and the BEAM Virtual Machine.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 85983888,
+                    "language": "Erlang",
+                    "last_commit": "2026-04-26T08:42:38Z",
+                    "owner": "happi",
+                    "repo": "theBeamBook",
+                    "stars": 4048
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "Crafting Interpreters",
+                  "description": "An all-stop-shop for learning (nearly) everything you need to learn to build an interpreted, full-featured, efficient scripting language.",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "GitHub Repo",
+                      "description": ".",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 79055279,
+                        "language": "HTML",
+                        "last_commit": "2024-08-07T12:07:07Z",
+                        "owner": "munificent",
+                        "repo": "craftinginterpreters",
+                        "stars": 10994
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Introductory"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hindley-Damas-Milner Tutorial",
+              "description": "Extensively documented walkthrough for typechecking a basic functional language using the Hindley-Damas-Milner algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8079216,
+                "language": "Haskell",
+                "last_commit": "2023-07-12T09:28:11Z",
+                "owner": "quchen",
+                "repo": "articles",
+                "stars": 1311
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Little Lisp Interpreter",
+              "description": "Interpreter that supports function invocation, lambdas, lets, ifs, numbers, strings, a few library functions, and lists in under 120 lines of JavaScript.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub Repository",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10752503,
+                    "language": "JavaScript",
+                    "last_commit": "2021-08-02T20:48:19Z",
+                    "owner": "maryrosecook",
+                    "repo": "littlelisp",
+                    "stars": 620
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        }
+      ],
       "title": "Learning"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "The BEAM Book",
-          "description": "Description of the ERTS (Erlang Runtime System) and the BEAM Virtual Machine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Erlang",
-            "last_commit": "2026-04-26T08:42:38Z",
-            "owner": "happi",
-            "repo": "theBeamBook",
-            "stars": 4048
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Crafting Interpreters",
-          "description": "An all-stop-shop for learning (nearly) everything you need to learn to build an interpreted, full-featured, efficient scripting language.",
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub Repo",
-              "description": ".",
+              "title": "Movfuscator Compiler",
+              "description": "The compiles programs into \"mov\" instructions, and only \"mov\" instructions.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "HTML",
-                "last_commit": "2024-08-07T12:07:07Z",
-                "owner": "munificent",
-                "repo": "craftinginterpreters",
-                "stars": 10994
+                "id": 37501621,
+                "language": "C",
+                "last_commit": "2024-05-29T18:29:10Z",
+                "owner": "xoreaxeaxeax",
+                "repo": "movfuscator",
+                "stars": 10466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Capstone",
+              "description": "Lightweight multi-platform, multi-architecture disassembly framework with bindings to various famous programming languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14735429,
+                "language": "C",
+                "last_commit": "2026-08-13T10:29:27Z",
+                "owner": "capstone-engine",
+                "repo": "capstone",
+                "stars": 8962
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rubinius",
+              "description": "Programming Languages Development Platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27,
+                "language": "C",
+                "last_commit": "2025-09-11T04:54:08Z",
+                "owner": "rubinius",
+                "repo": "rubinius",
+                "stars": 3092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keystone",
+              "description": "Lightweight multi-platform, multi-architecture assembler framework with bindings to various famous programming languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57302200,
+                "language": "C++",
+                "last_commit": "2026-07-18T21:28:10Z",
+                "owner": "keystone-engine",
+                "repo": "keystone",
+                "stars": 2622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLILCL",
+              "description": "LLVM-based Compiler Backend for .NET Core.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30043131,
+                "language": "C++",
+                "last_commit": "2022-03-15T01:37:01Z",
+                "owner": "dotnet",
+                "repo": "llilc",
+                "stars": 1515
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZetaVM",
+              "description": "Multi-Language Platform for Dynamic Programming Languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89325203,
+                "language": "C++",
+                "last_commit": "2022-07-19T02:01:32Z",
+                "owner": "zetavm",
+                "repo": "zetavm",
+                "stars": 643
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Summus",
+              "description": "Basic, reusable, compiler-frontend implementation using LLVM as a backend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59149204,
+                "language": "C",
+                "last_commit": "2018-10-27T13:25:52Z",
+                "owner": "igor84",
+                "repo": "summus",
+                "stars": 243
               }
             }
-          ]
-        }
-      ],
-      "title": "Introductory"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Talks and Conferences"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hindley-Damas-Milner Tutorial",
-          "description": "Extensively documented walkthrough for typechecking a basic functional language using the Hindley-Damas-Milner algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2023-07-12T09:28:11Z",
-            "owner": "quchen",
-            "repo": "articles",
-            "stars": 1311
-          }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language Agnostic"
         },
         {
-          "node_type": "group",
-          "title": "Little Lisp Interpreter",
-          "description": "Interpreter that supports function invocation, lambdas, lets, ifs, numbers, strings, a few library functions, and lists in under 120 lines of JavaScript.",
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub Repository",
-              "description": ".",
+              "title": "AsmJIT",
+              "description": "Complete x86/x64 JIT and Remote Assembler for C++.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 16327099,
+                "language": "C++",
+                "last_commit": "2026-03-26T08:20:00Z",
+                "owner": "asmjit",
+                "repo": "asmjit",
+                "stars": 4582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LCC",
+              "description": "The lcc retargetable ANSI C compiler (C as a Backend).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957049,
+                "language": "C",
+                "last_commit": "2024-10-06T03:38:10Z",
+                "owner": "drh",
+                "repo": "lcc",
+                "stars": 2604
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OrangeC",
+              "description": "Win32 C11/C++2014 compiler and toolchain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10257340,
+                "language": "C++",
+                "last_commit": "2026-05-19T00:17:38Z",
+                "owner": "LADSoft",
+                "repo": "OrangeC",
+                "stars": 340
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C / C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pegged",
+              "description": "design, test and generate parsers for PEG grammars.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3593205,
+                "language": "D",
+                "last_commit": "2025-07-31T23:45:57Z",
+                "owner": "dlang-community",
+                "repo": "Pegged",
+                "stars": 550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libdparse",
+              "description": "Library allowing to build lexers and parsers. Contains a lexer and a parser for the D language itself.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21142714,
+                "language": "D",
+                "last_commit": "2026-05-10T16:14:14Z",
+                "owner": "dlang-community",
+                "repo": "libdparse",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llvm-d",
+              "description": "D bindings for LLVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8778644,
+                "language": "D",
+                "last_commit": "2020-06-12T09:28:38Z",
+                "owner": "MoritzMaxeiner",
+                "repo": "llvm-d",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dunnart",
+              "description": "LALR(1) Parser Generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8596337,
+                "language": "D",
+                "last_commit": "2017-07-14T04:25:40Z",
+                "owner": "pwil3058",
+                "repo": "dunnart",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FancyPars-lite",
+              "description": "Fast parser generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29127129,
+                "language": "D",
+                "last_commit": "2026-01-04T14:30:03Z",
+                "owner": "UplinkCoder",
+                "repo": "FancyPars-lite",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "D"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Graal",
+              "description": "High-Performance Polyglot Runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49662222,
+                "language": "Java",
+                "last_commit": "2026-08-19T12:08:16Z",
+                "owner": "oracle",
+                "repo": "graal",
+                "stars": 21665
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Parsec",
+              "description": "/ attoparsec / Megaparsec / Trifecta / Alex + Happy - Parsers for every use case.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18043169,
+                "language": "Haskell",
+                "last_commit": "2026-06-09T14:18:40Z",
+                "owner": "haskell",
+                "repo": "parsec",
+                "stars": 893
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llvm-general",
+              "description": "Haskell bindings for LLVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10741539,
+                "language": "Haskell",
+                "last_commit": "2017-03-03T03:40:12Z",
+                "owner": "bscarlet",
+                "repo": "llvm-general",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bound",
+              "description": "/ unbound / unbound-generics - Libraries for manipulating bound variables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4681346,
+                "language": "Haskell",
+                "last_commit": "2026-01-23T15:19:44Z",
+                "owner": "ekmett",
+                "repo": "bound",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hoopl",
+              "description": "Higher-order optimization library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33915092,
+                "language": "Haskell",
+                "last_commit": "2023-07-12T13:10:30Z",
+                "owner": "haskell",
+                "repo": "hoopl",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wl-pprint-text",
+              "description": "/ ansi-wl-pprint - Walder-style pretty-printing libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33479374,
+                "language": "Haskell",
+                "last_commit": "2023-11-15T20:02:32Z",
+                "owner": "ivan-m",
+                "repo": "wl-pprint-text",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Haskell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ohm",
+              "description": "A library and language for building parsers, interpreters, compilers, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36021747,
                 "language": "JavaScript",
-                "last_commit": "2021-08-02T20:48:19Z",
-                "owner": "maryrosecook",
-                "repo": "littlelisp",
-                "stars": 620
+                "last_commit": "2026-06-19T06:06:39Z",
+                "owner": "ohmjs",
+                "repo": "ohm",
+                "stars": 5542
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nearley",
+              "description": "Simple, fast, powerful parser toolkit for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17116619,
+                "language": "JavaScript",
+                "last_commit": "2024-11-14T02:34:00Z",
+                "owner": "kach",
+                "repo": "nearley",
+                "stars": 3742
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "IRHudra",
+              "description": "Tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub Repo",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16740381,
+                    "language": "JavaScript",
+                    "last_commit": "2025-10-02T19:54:40Z",
+                    "owner": "mraleph",
+                    "repo": "irhydra",
+                    "stars": 439
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "JISON",
+              "description": "Context-free grammar parser generator for JavaScript.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GerHobbelt/jison",
+                  "description": "active fork of jison with bunch of improvements.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7255623,
+                    "language": "JavaScript",
+                    "last_commit": "2021-03-06T05:14:46Z",
+                    "owner": "GerHobbelt",
+                    "repo": "jison",
+                    "stars": 125
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CGLIB",
+              "description": "High level API library for generating and transforming Java Byte Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18242149,
+                "language": "Java",
+                "last_commit": "2024-08-16T10:22:51Z",
+                "owner": "cglib",
+                "repo": "cglib",
+                "stars": 4895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaCPP Presets for LLVM",
+              "description": "Library for easily interacting with the LLVM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18993042,
+                "language": "Java",
+                "last_commit": "2026-08-12T02:17:17Z",
+                "owner": "bytedeco",
+                "repo": "javacpp-presets",
+                "stars": 2849
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JVM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nom",
+              "description": "Parser Combinator Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27029984,
+                "language": "Rust",
+                "last_commit": "2025-08-26T11:10:34Z",
+                "owner": "rust-bakery",
+                "repo": "nom",
+                "stars": 10454
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pest",
+              "description": "PEG Parser Generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56964647,
+                "language": "Rust",
+                "last_commit": "2026-08-19T09:58:47Z",
+                "owner": "pest-parser",
+                "repo": "pest",
+                "stars": 5380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RLS",
+              "description": "The Rust Language Server implementation (aka RLS).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 66979953,
+                "language": "Rust",
+                "last_commit": "2022-08-29T21:32:29Z",
+                "owner": "rust-lang",
+                "repo": "rls",
+                "stars": 3501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PEG",
+              "description": "PEG Parser Generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12204606,
+                "language": "Rust",
+                "last_commit": "2026-05-04T21:01:19Z",
+                "owner": "kevinmehall",
+                "repo": "rust-peg",
+                "stars": 1606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Combine",
+              "description": "Parser Combinator Library for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29131678,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:25:36Z",
+                "owner": "Marwes",
+                "repo": "combine",
+                "stars": 1367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IronLLVM",
+              "description": "Safe LLVM bindings for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39853006,
+                "language": "Rust",
+                "last_commit": "2016-12-25T16:24:30Z",
+                "owner": "jauhien",
+                "repo": "iron-llvm",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LALRPOP",
+              "description": "LR(1) parser generator for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618782454,
+                "language": "Rust",
+                "last_commit": "2023-04-24T22:49:38Z",
+                "owner": "nikomatsakis",
+                "repo": "lalrpop",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         }
       ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Tools and Frameworks"
     },
     {
-      "description": "",
+      "description": "This section aims at listing code projects of Compilers, Interpreters, Translators, Runtimes, Virtual Machines and the like.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Movfuscator Compiler",
-          "description": "The compiles programs into \"mov\" instructions, and only \"mov\" instructions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-05-29T18:29:10Z",
-            "owner": "xoreaxeaxeax",
-            "repo": "movfuscator",
-            "stars": 10453
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Capstone",
-          "description": "Lightweight multi-platform, multi-architecture disassembly framework with bindings to various famous programming languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-13T10:29:27Z",
-            "owner": "capstone-engine",
-            "repo": "capstone",
-            "stars": 8960
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rubinius",
-          "description": "Programming Languages Development Platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-09-11T04:54:08Z",
-            "owner": "rubinius",
-            "repo": "rubinius",
-            "stars": 3092
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Keystone",
-          "description": "Lightweight multi-platform, multi-architecture assembler framework with bindings to various famous programming languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-18T21:28:10Z",
-            "owner": "keystone-engine",
-            "repo": "keystone",
-            "stars": 2622
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLILCL",
-          "description": "LLVM-based Compiler Backend for .NET Core.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2022-03-15T01:37:01Z",
-            "owner": "dotnet",
-            "repo": "llilc",
-            "stars": 1515
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZetaVM",
-          "description": "Multi-Language Platform for Dynamic Programming Languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-07-19T02:01:32Z",
-            "owner": "zetavm",
-            "repo": "zetavm",
-            "stars": 643
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Summus",
-          "description": "Basic, reusable, compiler-frontend implementation using LLVM as a backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-10-27T13:25:52Z",
-            "owner": "igor84",
-            "repo": "summus",
-            "stars": 243
-          }
-        }
-      ],
-      "title": "Language Agnostic"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AsmJIT",
-          "description": "Complete x86/x64 JIT and Remote Assembler for C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-03-26T08:20:00Z",
-            "owner": "asmjit",
-            "repo": "asmjit",
-            "stars": 4582
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LCC",
-          "description": "The lcc retargetable ANSI C compiler (C as a Backend).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-10-06T03:38:10Z",
-            "owner": "drh",
-            "repo": "lcc",
-            "stars": 2604
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OrangeC",
-          "description": "Win32 C11/C++2014 compiler and toolchain.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-19T00:17:38Z",
-            "owner": "LADSoft",
-            "repo": "OrangeC",
-            "stars": 340
-          }
-        }
-      ],
-      "title": "C / C++"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pegged",
-          "description": "design, test and generate parsers for PEG grammars.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "D",
-            "last_commit": "2025-07-31T23:45:57Z",
-            "owner": "dlang-community",
-            "repo": "Pegged",
-            "stars": 550
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libdparse",
-          "description": "Library allowing to build lexers and parsers. Contains a lexer and a parser for the D language itself.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "D",
-            "last_commit": "2026-05-10T16:14:14Z",
-            "owner": "dlang-community",
-            "repo": "libdparse",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "llvm-d",
-          "description": "D bindings for LLVM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "D",
-            "last_commit": "2020-06-12T09:28:38Z",
-            "owner": "MoritzMaxeiner",
-            "repo": "llvm-d",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dunnart",
-          "description": "LALR(1) Parser Generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "D",
-            "last_commit": "2017-07-14T04:25:40Z",
-            "owner": "pwil3058",
-            "repo": "dunnart",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FancyPars-lite",
-          "description": "Fast parser generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "D",
-            "last_commit": "2026-01-04T14:30:03Z",
-            "owner": "UplinkCoder",
-            "repo": "FancyPars-lite",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "D"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Graal",
-          "description": "High-Performance Polyglot Runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T16:57:28Z",
-            "owner": "oracle",
-            "repo": "graal",
-            "stars": 21664
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graal Core",
-          "description": "Compiler and Truffel Partial Evaluator.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Graal VM",
-          "description": "Graal's multi-language VM distribution.",
-          "children": []
-        }
-      ],
-      "title": "Graal"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Parsec",
-          "description": "/ attoparsec / Megaparsec / Trifecta / Alex + Happy - Parsers for every use case.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2026-06-09T14:18:40Z",
-            "owner": "haskell",
-            "repo": "parsec",
-            "stars": 893
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "llvm-general",
-          "description": "Haskell bindings for LLVM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2017-03-03T03:40:12Z",
-            "owner": "bscarlet",
-            "repo": "llvm-general",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bound",
-          "description": "/ unbound / unbound-generics - Libraries for manipulating bound variables.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2026-01-23T15:19:44Z",
-            "owner": "ekmett",
-            "repo": "bound",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hoopl",
-          "description": "Higher-order optimization library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2023-07-12T13:10:30Z",
-            "owner": "haskell",
-            "repo": "hoopl",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wl-pprint-text",
-          "description": "/ ansi-wl-pprint - Walder-style pretty-printing libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2023-11-15T20:02:32Z",
-            "owner": "ivan-m",
-            "repo": "wl-pprint-text",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Haskell"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ohm",
-          "description": "A library and language for building parsers, interpreters, compilers, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-19T06:06:39Z",
-            "owner": "ohmjs",
-            "repo": "ohm",
-            "stars": 5542
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nearley",
-          "description": "Simple, fast, powerful parser toolkit for JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-14T02:34:00Z",
-            "owner": "kach",
-            "repo": "nearley",
-            "stars": 3742
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "IRHudra",
-          "description": "Tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.",
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub Repo",
+              "title": "TypeScript's Compiler",
               "description": ".",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2025-10-02T19:54:40Z",
-                "owner": "mraleph",
-                "repo": "irhydra",
-                "stars": 439
+                "id": 20929025,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T19:07:48Z",
+                "owner": "microsoft",
+                "repo": "TypeScript",
+                "stars": 110204
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "JISON",
-          "description": "Context-free grammar parser generator for JavaScript.",
-          "children": [
+            },
             {
               "node_type": "item",
-              "title": "GerHobbelt/jison",
-              "description": "active fork of jison with bunch of improvements.",
+              "title": "Babel.js",
+              "description": "Next-generation JavaScript Compiler.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2021-03-06T05:14:46Z",
-                "owner": "GerHobbelt",
-                "repo": "jison",
-                "stars": 125
+                "id": 24560307,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T08:21:06Z",
+                "owner": "babel",
+                "repo": "babel",
+                "stars": 43987
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zig's Compiler",
+              "description": "Zig Language Compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40276274,
+                "language": "Zig",
+                "last_commit": "2025-11-27T01:42:59Z",
+                "owner": "ziglang",
+                "repo": "zig",
+                "stars": 43317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Roslyn",
+              "description": "The .NET \"Roslyn\" Compiler Platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29078997,
+                "language": "C#",
+                "last_commit": "2026-08-19T10:22:35Z",
+                "owner": "dotnet",
+                "repo": "roslyn",
+                "stars": 20614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HHVM",
+              "description": "Virtual Machine for running programs written in Hack and PHP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455600,
+                "language": "C++",
+                "last_commit": "2026-08-19T12:07:15Z",
+                "owner": "facebook",
+                "repo": "hhvm",
+                "stars": 18654
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nim's Compiler",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 842037,
+                "language": "Nim",
+                "last_commit": "2026-08-19T06:33:18Z",
+                "owner": "nim-lang",
+                "repo": "Nim",
+                "stars": 18176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wren's Compiler",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14509809,
+                "language": "Wren",
+                "last_commit": "2025-11-19T22:18:55Z",
+                "owner": "wren-lang",
+                "repo": "wren",
+                "stars": 8110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChezScheme's Compiler",
+              "description": "ChezScheme Language Compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56263501,
+                "language": "Scheme",
+                "last_commit": "2026-08-18T15:54:56Z",
+                "owner": "cisco",
+                "repo": "ChezScheme",
+                "stars": 7337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Red's Compiler",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1449773,
+                "language": "Red",
+                "last_commit": "2026-08-18T21:17:40Z",
+                "owner": "red",
+                "repo": "red",
+                "stars": 6034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Frege's Compiler",
+              "description": "JVM-based Compiler for the Frege Programming Language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5987163,
+                "language": "Frege",
+                "last_commit": "2026-07-11T08:33:45Z",
+                "owner": "Frege",
+                "repo": "frege",
+                "stars": 3710
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "P Lang",
+              "description": "The P Programming Language Runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37799274,
+                "language": "C#",
+                "last_commit": "2026-08-13T19:52:28Z",
+                "owner": "p-org",
+                "repo": "P",
+                "stars": 3664
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gluon's Compiler",
+              "description": "Embedded Language Compiler written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40078838,
+                "language": "Rust",
+                "last_commit": "2026-08-06T10:41:39Z",
+                "owner": "gluon-lang",
+                "repo": "gluon",
+                "stars": 3433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eta' Compiler",
+              "description": "JVM-based Compiler for the Eta Programming Language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55689010,
+                "language": "Haskell",
+                "last_commit": "2022-07-31T17:14:19Z",
+                "owner": "typelead",
+                "repo": "eta",
+                "stars": 2633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BOLT",
+              "description": "Binary Optimization and Layout Tool.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 130925534,
+                "language": null,
+                "last_commit": "2023-04-24T02:48:15Z",
+                "owner": "facebookarchive",
+                "repo": "BOLT",
+                "stars": 2532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lua's Interpreter",
+              "description": "Official Lua Language Interperter.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 950038,
+                "language": "C",
+                "last_commit": "2019-10-31T01:41:55Z",
+                "owner": "LuaDist",
+                "repo": "lua",
+                "stars": 1492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lily's Interpreter",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18459138,
+                "language": "C",
+                "last_commit": "2026-08-18T06:30:06Z",
+                "owner": "FascinatedBox",
+                "repo": "lily",
+                "stars": 1093
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mirah's Compiler",
+              "description": "JVM-based Compiler for the Mirah Programming Language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 832272,
+                "language": "HTML",
+                "last_commit": "2026-05-23T05:49:40Z",
+                "owner": "mirah",
+                "repo": "mirah",
+                "stars": 864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ELENA Compiler",
+              "description": "Elena programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13586508,
+                "language": "C++",
+                "last_commit": "2026-08-19T11:28:36Z",
+                "owner": "ELENA-LANG",
+                "repo": "elena-lang",
+                "stars": 238
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Serious Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Super Tiny Compiler",
+              "description": "Tiny educational compiler project in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53639099,
+                "language": "JavaScript",
+                "last_commit": "2024-02-19T12:33:21Z",
+                "owner": "jamiebuilds",
+                "repo": "the-super-tiny-compiler",
+                "stars": 28558
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C4",
+              "description": "C Lang in 4 Functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26181287,
+                "language": "C",
+                "last_commit": "2023-12-26T06:13:39Z",
+                "owner": "rswier",
+                "repo": "c4",
+                "stars": 10776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAL",
+              "description": "Make a Lisp - Clojure-inspired Lisp interpreter implemented in 64 languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18079664,
+                "language": "Assembly",
+                "last_commit": "2025-10-22T16:42:57Z",
+                "owner": "kanaka",
+                "repo": "mal",
+                "stars": 10715
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaScala",
+              "description": "Metacircular JVM implementation in Scala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8531475,
+                "language": "Scala",
+                "last_commit": "2023-07-23T00:16:47Z",
+                "owner": "lihaoyi",
+                "repo": "Metascala",
+                "stars": 1185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "amacc",
+              "description": "Small C Compiler generating ELF executable for Arm architecture.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50844155,
+                "language": "C",
+                "last_commit": "2025-08-05T09:19:20Z",
+                "owner": "jserv",
+                "repo": "amacc",
+                "stars": 1060
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dale",
+              "description": "Lisp-flavoured C: a system programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10273216,
+                "language": "C++",
+                "last_commit": "2025-04-20T21:30:53Z",
+                "owner": "tomhrr",
+                "repo": "dale",
+                "stars": 1046
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CarpVM",
+              "description": "Experimental VM implementation in C.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 16738734,
+                "language": "C",
+                "last_commit": "2021-01-18T23:05:49Z",
+                "owner": "tekknolagi",
+                "repo": "carp",
+                "stars": 983
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gocaml",
+              "description": "Minimal functional programming language implementation in Go and LLVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80016833,
+                "language": "Go",
+                "last_commit": "2020-07-04T04:46:48Z",
+                "owner": "rhysd",
+                "repo": "gocaml",
+                "stars": 756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hython",
+              "description": "Haskell-powered Python 3 interpreter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21913596,
+                "language": "Haskell",
+                "last_commit": "2017-08-01T00:18:19Z",
+                "owner": "mattgreen",
+                "repo": "hython",
+                "stars": 582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MY-BASIC",
+              "description": "An embeddable BASIC dialect interpreter in C with modern paradigms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16881875,
+                "language": "C",
+                "last_commit": "2026-05-11T07:19:23Z",
+                "owner": "paladin-t",
+                "repo": "my_basic",
+                "stars": 569
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tisp",
+              "description": "\"Time is Space\" Programming Language Interpreter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83192224,
+                "language": "Go",
+                "last_commit": "2026-08-18T08:36:56Z",
+                "owner": "cloe-lang",
+                "repo": "cloe",
+                "stars": 413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Poprc",
+              "description": "Compiler for the Popr Language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6116266,
+                "language": "C",
+                "last_commit": "2021-01-07T07:06:42Z",
+                "owner": "HackerFoo",
+                "repo": "poprc",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Charly",
+              "description": "Interpreter for a dynamically typed language written in Crystal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68742983,
+                "language": "Crystal",
+                "last_commit": "2020-03-23T21:01:02Z",
+                "owner": "charly-lang",
+                "repo": "charly",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ultra Tiny Compiler",
+              "description": "Another tiny compiler in less then 90 lines of code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55230149,
+                "language": "CoffeeScript",
+                "last_commit": "2026-02-10T17:45:19Z",
+                "owner": "antonmedv",
+                "repo": "ultra-tiny-compiler",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oberonc",
+              "description": "A single pass, self-hosting compiler for the Oberon-07 programming language. It targets the JVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102318994,
+                "language": "Modula-2",
+                "last_commit": "2026-04-16T17:24:04Z",
+                "owner": "lboasso",
+                "repo": "oberonc",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mini-js",
+              "description": "Experimental self-hosted JavaScript compiler in 1K LoC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77621845,
+                "language": "JavaScript",
+                "last_commit": "2017-08-26T14:49:36Z",
+                "owner": "maierfelix",
+                "repo": "mini-js",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RabbitVM",
+              "description": "RISC-based VM implementation in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35933261,
+                "language": "HTML",
+                "last_commit": "2019-07-18T01:06:12Z",
+                "owner": "RabbitVM",
+                "repo": "rabbit",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Akilang",
+              "description": "A compiler for a simple language, built with Python and LLVM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133724628,
+                "language": "Python",
+                "last_commit": "2019-11-21T02:38:34Z",
+                "owner": "syegulalp",
+                "repo": "Akilang",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llgo",
+              "description": "Go frontend for LLVM written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 46365939,
+                "language": "Go",
+                "last_commit": "2019-03-22T18:30:36Z",
+                "owner": "llvm-mirror",
+                "repo": "llgo",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StackVM",
+              "description": "Virtual Machine with an integrated VRAM display.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80375800,
+                "language": "Crystal",
+                "last_commit": "2020-03-23T23:07:22Z",
+                "owner": "KCreate",
+                "repo": "stackvm",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyCOOLC",
+              "description": "Compiler for the COOL Programming Language written in Python 3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58228413,
+                "language": "Python",
+                "last_commit": "2026-05-07T07:19:26Z",
+                "owner": "aalhour",
+                "repo": "PyCOOLC",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Squint",
+              "description": "A peephole optimizer for educational compilers generating stack based assembly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 461374829,
+                "language": "C",
+                "last_commit": "2025-10-17T01:22:29Z",
+                "owner": "HPCguy",
+                "repo": "Squint",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gone",
+              "description": "Compiler for a tiny programming language called Gone, implemented using Python 3.6, SLY and llvmlite. Developed as part of the January 2018 Write a compiler course, under the supervision of David Beazly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128694778,
+                "language": "Python",
+                "last_commit": "2020-01-13T03:40:47Z",
+                "owner": "paivett",
+                "repo": "gone",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EasyLang",
+              "description": "Easy Programming Language / VM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112934765,
+                "language": "C++",
+                "last_commit": "2018-08-20T22:04:57Z",
+                "owner": "erhanbaris",
+                "repo": "EasyLang",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gecho",
+              "description": "Simple-stack language implementation in C.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2152900,
+                "language": "C",
+                "last_commit": "2012-02-10T23:11:09Z",
+                "owner": "tekknolagi",
+                "repo": "gecho",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stack_cpu",
+              "description": "Stack-machine simulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5948579,
+                "language": "C",
+                "last_commit": "2012-09-25T10:59:37Z",
+                "owner": "dsturnbull",
+                "repo": "stack_cpu",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MunVM",
+              "description": "Lua VM & Compiler in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70238140,
+                "language": "C",
+                "last_commit": "2016-10-26T17:52:45Z",
+                "owner": "MunVM",
+                "repo": "MunVM",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eschelle",
+              "description": "Open source cross platform multi-paradigm language with VM & JIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70748742,
+                "language": "C++",
+                "last_commit": "2018-06-16T12:50:24Z",
+                "owner": "Eschelle",
+                "repo": "Eschelle",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Black",
+              "description": "Scheme interpreter for the Reflective Programming Language \"Black\", by Kenichi Asai's.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Other sources: GitHub Mirror",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24241945,
+                    "language": "Scheme",
+                    "last_commit": "2022-04-11T06:39:38Z",
+                    "owner": "readevalprintlove",
+                    "repo": "black",
+                    "stars": 198
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Educational and Toy Projects"
         }
       ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CGLIB",
-          "description": "High level API library for generating and transforming Java Byte Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-08-16T10:22:51Z",
-            "owner": "cglib",
-            "repo": "cglib",
-            "stars": 4895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JavaCPP Presets for LLVM",
-          "description": "Library for easily interacting with the LLVM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-12T02:17:17Z",
-            "owner": "bytedeco",
-            "repo": "javacpp-presets",
-            "stars": 2849
-          }
-        }
-      ],
-      "title": "JVM"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Nom",
-          "description": "Parser Combinator Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-08-26T11:10:34Z",
-            "owner": "rust-bakery",
-            "repo": "nom",
-            "stars": 10453
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pest",
-          "description": "PEG Parser Generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-13T12:27:31Z",
-            "owner": "pest-parser",
-            "repo": "pest",
-            "stars": 5380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RLS",
-          "description": "The Rust Language Server implementation (aka RLS).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-08-29T21:32:29Z",
-            "owner": "rust-lang",
-            "repo": "rls",
-            "stars": 3501
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PEG",
-          "description": "PEG Parser Generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-04T21:01:19Z",
-            "owner": "kevinmehall",
-            "repo": "rust-peg",
-            "stars": 1606
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Combine",
-          "description": "Parser Combinator Library for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-03T14:08:26Z",
-            "owner": "Marwes",
-            "repo": "combine",
-            "stars": 1367
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IronLLVM",
-          "description": "Safe LLVM bindings for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2016-12-25T16:24:30Z",
-            "owner": "jauhien",
-            "repo": "iron-llvm",
-            "stars": 128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LALRPOP",
-          "description": "LR(1) parser generator for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-04-24T22:49:38Z",
-            "owner": "nikomatsakis",
-            "repo": "lalrpop",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "This section aims at listing code projects of Compilers, Interpreters, Translators, Runtimes, Virtual Machines and the like.",
-      "items": [],
       "title": "Compilers and Interpreters"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TypeScript's Compiler",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T19:07:48Z",
-            "owner": "microsoft",
-            "repo": "TypeScript",
-            "stars": 110197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Babel.js",
-          "description": "Next-generation JavaScript Compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T08:21:06Z",
-            "owner": "babel",
-            "repo": "babel",
-            "stars": 43984
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zig's Compiler",
-          "description": "Zig Language Compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2025-11-27T01:42:59Z",
-            "owner": "ziglang",
-            "repo": "zig",
-            "stars": 43314
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Roslyn",
-          "description": "The .NET \"Roslyn\" Compiler Platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-19T02:03:12Z",
-            "owner": "dotnet",
-            "repo": "roslyn",
-            "stars": 20612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HHVM",
-          "description": "Virtual Machine for running programs written in Hack and PHP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-19T02:34:20Z",
-            "owner": "facebook",
-            "repo": "hhvm",
-            "stars": 18654
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nim's Compiler",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nim",
-            "last_commit": "2026-08-18T12:02:44Z",
-            "owner": "nim-lang",
-            "repo": "Nim",
-            "stars": 18175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wren's Compiler",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Wren",
-            "last_commit": "2025-11-19T22:18:55Z",
-            "owner": "wren-lang",
-            "repo": "wren",
-            "stars": 8110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChezScheme's Compiler",
-          "description": "ChezScheme Language Compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scheme",
-            "last_commit": "2026-08-18T15:54:56Z",
-            "owner": "cisco",
-            "repo": "ChezScheme",
-            "stars": 7335
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Red's Compiler",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Red",
-            "last_commit": "2026-08-18T21:17:40Z",
-            "owner": "red",
-            "repo": "red",
-            "stars": 6034
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Frege's Compiler",
-          "description": "JVM-based Compiler for the Frege Programming Language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Frege",
-            "last_commit": "2026-07-11T08:33:45Z",
-            "owner": "Frege",
-            "repo": "frege",
-            "stars": 3710
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "P Lang",
-          "description": "The P Programming Language Runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-13T19:52:28Z",
-            "owner": "p-org",
-            "repo": "P",
-            "stars": 3663
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gluon's Compiler",
-          "description": "Embedded Language Compiler written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-06T10:41:39Z",
-            "owner": "gluon-lang",
-            "repo": "gluon",
-            "stars": 3432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Eta' Compiler",
-          "description": "JVM-based Compiler for the Eta Programming Language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2022-07-31T17:14:19Z",
-            "owner": "typelead",
-            "repo": "eta",
-            "stars": 2633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BOLT",
-          "description": "Binary Optimization and Layout Tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2023-04-24T02:48:15Z",
-            "owner": "facebookarchive",
-            "repo": "BOLT",
-            "stars": 2532
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lua's Interpreter",
-          "description": "Official Lua Language Interperter.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2019-10-31T01:41:55Z",
-            "owner": "LuaDist",
-            "repo": "lua",
-            "stars": 1492
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lily's Interpreter",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T06:30:06Z",
-            "owner": "FascinatedBox",
-            "repo": "lily",
-            "stars": 1093
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mirah's Compiler",
-          "description": "JVM-based Compiler for the Mirah Programming Language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-23T05:49:40Z",
-            "owner": "mirah",
-            "repo": "mirah",
-            "stars": 864
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELENA Compiler",
-          "description": "Elena programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T22:59:03Z",
-            "owner": "ELENA-LANG",
-            "repo": "elena-lang",
-            "stars": 238
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple-MSIL-Compiler",
-          "description": "C compiler that compiles to CLR.",
-          "children": []
-        }
-      ],
-      "title": "Serious Projects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "The Super Tiny Compiler",
-          "description": "Tiny educational compiler project in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-19T12:33:21Z",
-            "owner": "jamiebuilds",
-            "repo": "the-super-tiny-compiler",
-            "stars": 28558
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C4",
-          "description": "C Lang in 4 Functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-26T06:13:39Z",
-            "owner": "rswier",
-            "repo": "c4",
-            "stars": 10776
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MAL",
-          "description": "Make a Lisp - Clojure-inspired Lisp interpreter implemented in 64 languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2025-10-22T16:42:57Z",
-            "owner": "kanaka",
-            "repo": "mal",
-            "stars": 10715
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MetaScala",
-          "description": "Metacircular JVM implementation in Scala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2023-07-23T00:16:47Z",
-            "owner": "lihaoyi",
-            "repo": "Metascala",
-            "stars": 1185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "amacc",
-          "description": "Small C Compiler generating ELF executable for Arm architecture.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-08-05T09:19:20Z",
-            "owner": "jserv",
-            "repo": "amacc",
-            "stars": 1060
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dale",
-          "description": "Lisp-flavoured C: a system programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-04-20T21:30:53Z",
-            "owner": "tomhrr",
-            "repo": "dale",
-            "stars": 1046
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CarpVM",
-          "description": "Experimental VM implementation in C.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2021-01-18T23:05:49Z",
-            "owner": "tekknolagi",
-            "repo": "carp",
-            "stars": 983
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gocaml",
-          "description": "Minimal functional programming language implementation in Go and LLVM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-07-04T04:46:48Z",
-            "owner": "rhysd",
-            "repo": "gocaml",
-            "stars": 756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hython",
-          "description": "Haskell-powered Python 3 interpreter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2017-08-01T00:18:19Z",
-            "owner": "mattgreen",
-            "repo": "hython",
-            "stars": 582
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MY-BASIC",
-          "description": "An embeddable BASIC dialect interpreter in C with modern paradigms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-11T07:19:23Z",
-            "owner": "paladin-t",
-            "repo": "my_basic",
-            "stars": 569
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tisp",
-          "description": "\"Time is Space\" Programming Language Interpreter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:36:56Z",
-            "owner": "cloe-lang",
-            "repo": "cloe",
-            "stars": 413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Poprc",
-          "description": "Compiler for the Popr Language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-01-07T07:06:42Z",
-            "owner": "HackerFoo",
-            "repo": "poprc",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Charly",
-          "description": "Interpreter for a dynamically typed language written in Crystal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Crystal",
-            "last_commit": "2020-03-23T21:01:02Z",
-            "owner": "charly-lang",
-            "repo": "charly",
-            "stars": 202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ultra Tiny Compiler",
-          "description": "Another tiny compiler in less then 90 lines of code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2026-02-10T17:45:19Z",
-            "owner": "antonmedv",
-            "repo": "ultra-tiny-compiler",
-            "stars": 186
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oberonc",
-          "description": "A single pass, self-hosting compiler for the Oberon-07 programming language. It targets the JVM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Modula-2",
-            "last_commit": "2026-04-16T17:24:04Z",
-            "owner": "lboasso",
-            "repo": "oberonc",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mini-js",
-          "description": "Experimental self-hosted JavaScript compiler in 1K LoC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-08-26T14:49:36Z",
-            "owner": "maierfelix",
-            "repo": "mini-js",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RabbitVM",
-          "description": "RISC-based VM implementation in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-07-18T01:06:12Z",
-            "owner": "RabbitVM",
-            "repo": "rabbit",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Akilang",
-          "description": "A compiler for a simple language, built with Python and LLVM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-21T02:38:34Z",
-            "owner": "syegulalp",
-            "repo": "Akilang",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "llgo",
-          "description": "Go frontend for LLVM written in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2019-03-22T18:30:36Z",
-            "owner": "llvm-mirror",
-            "repo": "llgo",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StackVM",
-          "description": "Virtual Machine with an integrated VRAM display.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Crystal",
-            "last_commit": "2020-03-23T23:07:22Z",
-            "owner": "KCreate",
-            "repo": "stackvm",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyCOOLC",
-          "description": "Compiler for the COOL Programming Language written in Python 3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-07T07:19:26Z",
-            "owner": "aalhour",
-            "repo": "PyCOOLC",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Squint",
-          "description": "A peephole optimizer for educational compilers generating stack based assembly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-17T01:22:29Z",
-            "owner": "HPCguy",
-            "repo": "Squint",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gone",
-          "description": "Compiler for a tiny programming language called Gone, implemented using Python 3.6, SLY and llvmlite. Developed as part of the January 2018 Write a compiler course, under the supervision of David Beazly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-01-13T03:40:47Z",
-            "owner": "paivett",
-            "repo": "gone",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EasyLang",
-          "description": "Easy Programming Language / VM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-08-20T22:04:57Z",
-            "owner": "erhanbaris",
-            "repo": "EasyLang",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gecho",
-          "description": "Simple-stack language implementation in C.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2012-02-10T23:11:09Z",
-            "owner": "tekknolagi",
-            "repo": "gecho",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stack_cpu",
-          "description": "Stack-machine simulator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2012-09-25T10:59:37Z",
-            "owner": "dsturnbull",
-            "repo": "stack_cpu",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MunVM",
-          "description": "Lua VM & Compiler in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-10-26T17:52:45Z",
-            "owner": "MunVM",
-            "repo": "MunVM",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Eschelle",
-          "description": "Open source cross platform multi-paradigm language with VM & JIT",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-06-16T12:50:24Z",
-            "owner": "Eschelle",
-            "repo": "Eschelle",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Black",
-          "description": "Scheme interpreter for the Reflective Programming Language \"Black\", by Kenichi Asai's.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Other sources: GitHub Mirror",
-              "description": ".",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Scheme",
-                "last_commit": "2022-04-11T06:39:38Z",
-                "owner": "readevalprintlove",
-                "repo": "black",
-                "stars": 198
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Educational and Toy Projects"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1350,8 +1429,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-19T02:34:20Z",
+            "last_commit": "2026-08-19T12:07:15Z",
             "owner": "facebook",
             "repo": "hhvm",
             "stars": 18654
@@ -1364,6 +1444,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30092893,
             "language": null,
             "last_commit": "2023-01-21T00:33:11Z",
             "owner": "dotnet",
@@ -1378,8 +1459,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374927,
             "language": "Erlang",
-            "last_commit": "2026-08-18T14:07:20Z",
+            "last_commit": "2026-08-19T10:09:32Z",
             "owner": "erlang",
             "repo": "otp",
             "stars": 12323
@@ -1392,8 +1474,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6138801,
             "language": "Standard ML",
-            "last_commit": "2026-08-19T02:29:38Z",
+            "last_commit": "2026-08-19T08:37:14Z",
             "owner": "CakeML",
             "repo": "cakeml",
             "stars": 1186
@@ -1411,6 +1494,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 1163411,
                 "language": "C",
                 "last_commit": "2020-01-02T18:51:48Z",
                 "owner": "kaffe",
@@ -1425,6 +1509,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 13487876,
                 "language": "C",
                 "last_commit": "2017-03-11T03:58:31Z",
                 "owner": "cfriedt",
@@ -1438,7 +1523,7 @@
       "title": "Runtimes and VMs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1447,11 +1532,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48246447,
             "language": "Rust",
             "last_commit": "2026-06-10T13:06:01Z",
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14739
+            "stars": 14737
           }
         },
         {
@@ -1461,6 +1547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40364738,
             "language": null,
             "last_commit": "2026-08-10T02:54:08Z",
             "owner": "MattPD",
@@ -1475,6 +1562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65269564,
             "language": "C",
             "last_commit": "2026-07-17T09:15:28Z",
             "owner": "endrazine",
@@ -1489,6 +1577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14816191,
             "language": null,
             "last_commit": "2021-03-18T09:49:12Z",
             "owner": "williamdemeo",
@@ -1498,21 +1587,12 @@
         }
       ],
       "title": "Verticals"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Contributors"
-    },
-    {
-      "description": "To the extent possible under law, Ahmad Alhour has waived all copyright and related or neighboring rights to this work.\nThe logo was designed using TextCraft.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:45:04.707Z",
+    "last_updated": "2026-08-19T12:20:14.152Z",
     "original_repository": "aalhour/awesome-compilers",
+    "original_repository_id": 63278843,
     "original_repository_sha": "906d6f41127aef8987e92cba78856ad45c20637b",
     "enhanced_repository": "enhansome/enhansome-compilers",
     "enhanced_repository_description": null,
