@@ -39,7 +39,7 @@
                         "last_commit": "2024-08-07T12:07:07Z",
                         "owner": "munificent",
                         "repo": "craftinginterpreters",
-                        "stars": 11004
+                        "stars": 11005
                       }
                     }
                   ]
@@ -53,6 +53,35 @@
           "description": null,
           "node_type": "group",
           "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "A Micro-Manual for LISP - Not the Whole Truth, J. McCarthy",
+              "description": ".",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Other editions: Neat and nice typeset",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53211525,
+                    "language": "TeX",
+                    "last_commit": "2025-02-01T17:23:25Z",
+                    "owner": "jaseemabid",
+                    "repo": "micromanual",
+                    "stars": 124
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Papers"
         },
         {
           "children": [
@@ -118,7 +147,7 @@
                 "last_commit": "2024-05-29T18:29:10Z",
                 "owner": "xoreaxeaxeax",
                 "repo": "movfuscator",
-                "stars": 10486
+                "stars": 10490
               }
             },
             {
@@ -163,7 +192,7 @@
                 "last_commit": "2026-07-18T21:28:10Z",
                 "owner": "keystone-engine",
                 "repo": "keystone",
-                "stars": 2622
+                "stars": 2623
               }
             },
             {
@@ -245,7 +274,7 @@
                 "last_commit": "2024-10-06T03:38:10Z",
                 "owner": "drh",
                 "repo": "lcc",
-                "stars": 2608
+                "stars": 2611
               }
             },
             {
@@ -267,6 +296,28 @@
           "description": null,
           "node_type": "group",
           "title": "C / C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DotNetPELib",
+              "description": "Library to read and write .net assemblies in C++11",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72274817,
+                "language": "C++",
+                "last_commit": "2024-05-05T13:19:02Z",
+                "owner": "LADSoft",
+                "repo": "DotNetPELib",
+                "stars": 59
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CLR"
         },
         {
           "children": [
@@ -361,7 +412,7 @@
                 "archived": false,
                 "id": 49662222,
                 "language": "Java",
-                "last_commit": "2026-08-22T00:36:20Z",
+                "last_commit": "2026-08-24T12:44:40Z",
                 "owner": "oracle",
                 "repo": "graal",
                 "stars": 21669
@@ -576,6 +627,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "The Whimsy Compiler Framework",
+              "description": "Compiler framework research project in Kotlin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74484613,
+                "language": "Java",
+                "last_commit": "2021-10-30T13:37:02Z",
+                "owner": "norswap",
+                "repo": "autumn",
+                "stars": 132
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kotlin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RPLY",
+              "description": "Port of the PLY project to RPython.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5308421,
+                "language": "Python",
+                "last_commit": "2023-01-21T19:10:13Z",
+                "owner": "alex",
+                "repo": "rply",
+                "stars": 390
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Nom",
               "description": "Parser Combinator Framework.",
               "children": [],
@@ -601,7 +696,7 @@
                 "last_commit": "2026-08-20T00:58:02Z",
                 "owner": "pest-parser",
                 "repo": "pest",
-                "stars": 5382
+                "stars": 5381
               }
             },
             {
@@ -704,7 +799,7 @@
                 "last_commit": "2026-08-24T01:47:42Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110634
+                "stars": 110650
               }
             },
             {
@@ -719,7 +814,7 @@
                 "last_commit": "2026-08-23T14:27:11Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43988
+                "stars": 43989
               }
             },
             {
@@ -734,7 +829,7 @@
                 "last_commit": "2025-11-27T01:42:59Z",
                 "owner": "ziglang",
                 "repo": "zig",
-                "stars": 43299
+                "stars": 43297
               }
             },
             {
@@ -746,10 +841,10 @@
                 "archived": false,
                 "id": 29078997,
                 "language": "C#",
-                "last_commit": "2026-08-23T08:27:56Z",
+                "last_commit": "2026-08-24T13:38:17Z",
                 "owner": "dotnet",
                 "repo": "roslyn",
-                "stars": 20619
+                "stars": 20621
               }
             },
             {
@@ -761,10 +856,10 @@
                 "archived": false,
                 "id": 455600,
                 "language": "C++",
-                "last_commit": "2026-08-23T19:17:12Z",
+                "last_commit": "2026-08-24T13:23:38Z",
                 "owner": "facebook",
                 "repo": "hhvm",
-                "stars": 18655
+                "stars": 18654
               }
             },
             {
@@ -776,7 +871,7 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-23T20:25:43Z",
+                "last_commit": "2026-08-24T12:42:19Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
                 "stars": 18184
@@ -794,7 +889,7 @@
                 "last_commit": "2025-11-19T22:18:55Z",
                 "owner": "wren-lang",
                 "repo": "wren",
-                "stars": 8116
+                "stars": 8117
               }
             },
             {
@@ -839,7 +934,7 @@
                 "last_commit": "2026-07-11T08:33:45Z",
                 "owner": "Frege",
                 "repo": "frege",
-                "stars": 3712
+                "stars": 3713
               }
             },
             {
@@ -854,7 +949,7 @@
                 "last_commit": "2026-08-21T19:09:01Z",
                 "owner": "p-org",
                 "repo": "P",
-                "stars": 3667
+                "stars": 3668
               }
             },
             {
@@ -869,7 +964,7 @@
                 "last_commit": "2026-08-06T10:41:39Z",
                 "owner": "gluon-lang",
                 "repo": "gluon",
-                "stars": 3434
+                "stars": 3435
               }
             },
             {
@@ -884,7 +979,7 @@
                 "last_commit": "2022-07-31T17:14:19Z",
                 "owner": "typelead",
                 "repo": "eta",
-                "stars": 2633
+                "stars": 2634
               }
             },
             {
@@ -926,7 +1021,7 @@
                 "archived": false,
                 "id": 18459138,
                 "language": "C",
-                "last_commit": "2026-08-23T03:23:47Z",
+                "last_commit": "2026-08-24T03:38:54Z",
                 "owner": "FascinatedBox",
                 "repo": "lily",
                 "stars": 1093
@@ -956,7 +1051,7 @@
                 "archived": false,
                 "id": 13586508,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:47:13Z",
+                "last_commit": "2026-08-24T13:13:39Z",
                 "owner": "ELENA-LANG",
                 "repo": "elena-lang",
                 "stars": 238
@@ -1011,7 +1106,7 @@
                 "last_commit": "2025-10-22T16:42:57Z",
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10720
+                "stars": 10719
               }
             },
             {
@@ -1431,10 +1526,10 @@
             "archived": false,
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-23T19:17:12Z",
+            "last_commit": "2026-08-24T13:23:38Z",
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18655
+            "stars": 18654
           }
         },
         {
@@ -1461,10 +1556,10 @@
             "archived": false,
             "id": 374927,
             "language": "Erlang",
-            "last_commit": "2026-08-21T11:26:47Z",
+            "last_commit": "2026-08-24T09:58:26Z",
             "owner": "erlang",
             "repo": "otp",
-            "stars": 12330
+            "stars": 12331
           }
         },
         {
@@ -1476,7 +1571,7 @@
             "archived": false,
             "id": 6138801,
             "language": "Standard ML",
-            "last_commit": "2026-08-23T21:43:17Z",
+            "last_commit": "2026-08-24T08:40:57Z",
             "owner": "CakeML",
             "repo": "cakeml",
             "stars": 1187
@@ -1549,7 +1644,7 @@
             "archived": false,
             "id": 40364738,
             "language": null,
-            "last_commit": "2026-08-23T02:24:12Z",
+            "last_commit": "2026-08-24T02:54:29Z",
             "owner": "MattPD",
             "repo": "cpplinks",
             "stars": 5280
@@ -1590,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:51:58.682Z",
+    "last_updated": "2026-08-24T13:56:27.015Z",
     "original_repository": "aalhour/awesome-compilers",
     "original_repository_id": 63278843,
     "original_repository_sha": "906d6f41127aef8987e92cba78856ad45c20637b",
