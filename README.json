@@ -412,7 +412,7 @@
                 "archived": false,
                 "id": 49662222,
                 "language": "Java",
-                "last_commit": "2026-08-24T18:56:18Z",
+                "last_commit": "2026-08-25T04:58:02Z",
                 "owner": "oracle",
                 "repo": "graal",
                 "stars": 21671
@@ -519,7 +519,7 @@
                 "last_commit": "2026-06-19T06:06:39Z",
                 "owner": "ohmjs",
                 "repo": "ohm",
-                "stars": 5542
+                "stars": 5543
               }
             },
             {
@@ -799,7 +799,7 @@
                 "last_commit": "2026-08-24T22:58:23Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110662
+                "stars": 110665
               }
             },
             {
@@ -841,7 +841,7 @@
                 "archived": false,
                 "id": 29078997,
                 "language": "C#",
-                "last_commit": "2026-08-25T02:18:13Z",
+                "last_commit": "2026-08-25T03:30:05Z",
                 "owner": "dotnet",
                 "repo": "roslyn",
                 "stars": 20622
@@ -856,7 +856,7 @@
                 "archived": false,
                 "id": 455600,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:38:06Z",
+                "last_commit": "2026-08-25T05:06:10Z",
                 "owner": "facebook",
                 "repo": "hhvm",
                 "stars": 18654
@@ -874,7 +874,7 @@
                 "last_commit": "2026-08-24T12:42:19Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18186
+                "stars": 18187
               }
             },
             {
@@ -1091,7 +1091,7 @@
                 "last_commit": "2023-12-26T06:13:39Z",
                 "owner": "rswier",
                 "repo": "c4",
-                "stars": 10782
+                "stars": 10783
               }
             },
             {
@@ -1106,7 +1106,7 @@
                 "last_commit": "2025-10-22T16:42:57Z",
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10720
+                "stars": 10721
               }
             },
             {
@@ -1526,7 +1526,7 @@
             "archived": false,
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-25T01:38:06Z",
+            "last_commit": "2026-08-25T05:06:10Z",
             "owner": "facebook",
             "repo": "hhvm",
             "stars": 18654
@@ -1571,7 +1571,7 @@
             "archived": false,
             "id": 6138801,
             "language": "Standard ML",
-            "last_commit": "2026-08-24T21:10:00Z",
+            "last_commit": "2026-08-25T05:34:09Z",
             "owner": "CakeML",
             "repo": "cakeml",
             "stars": 1187
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:46:00.780Z",
+    "last_updated": "2026-08-25T05:47:58.337Z",
     "original_repository": "aalhour/awesome-compilers",
     "original_repository_id": 63278843,
     "original_repository_sha": "906d6f41127aef8987e92cba78856ad45c20637b",
