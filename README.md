@@ -2,7 +2,7 @@
 
 A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Compilers, Interpreters and Runtimes. This list has a bias towards education.
 
-[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21
+[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,371 | 🐛 105 | 📅 2026-08-21
 
 ***
 
@@ -398,10 +398,10 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Serious Projects
 
-* [TypeScript's Compiler](https://github.com/Microsoft/TypeScript) ⭐ 110,728 | 🐛 5,192 | 🌐 Go | 📅 2026-08-26.
-* [Babel.js](https://github.com/babel/babel) ⭐ 43,988 | 🐛 774 | 🌐 TypeScript | 📅 2026-08-25 - Next-generation JavaScript Compiler.
+* [TypeScript's Compiler](https://github.com/Microsoft/TypeScript) ⭐ 110,728 | 🐛 5,193 | 🌐 Go | 📅 2026-08-26.
+* [Babel.js](https://github.com/babel/babel) ⭐ 43,987 | 🐛 774 | 🌐 TypeScript | 📅 2026-08-25 - Next-generation JavaScript Compiler.
 * [Zig's Compiler](https://github.com/zig-lang/zig) ⭐ 43,303 | 🐛 2,836 | 🌐 Zig | 📅 2025-11-27 - Zig Language Compiler.
-* [Roslyn](https://github.com/dotnet/roslyn) ⭐ 20,628 | 🐛 6,307 | 🌐 C# | 📅 2026-08-27 - The .NET "Roslyn" Compiler Platform.
+* [Roslyn](https://github.com/dotnet/roslyn) ⭐ 20,629 | 🐛 6,307 | 🌐 C# | 📅 2026-08-27 - The .NET "Roslyn" Compiler Platform.
 * [HHVM](https://github.com/facebook/hhvm) ⭐ 18,656 | 🐛 544 | 🌐 C++ | 📅 2026-08-27 - Virtual Machine for running programs written in Hack and PHP.
 * [Nim's Compiler](https://github.com/nim-lang/Nim) ⭐ 18,194 | 🐛 2,193 | 🌐 Nim | 📅 2026-08-26.
 * [Wren's Compiler](https://github.com/munificent/wren) ⭐ 8,122 | 🐛 271 | 🌐 Wren | 📅 2025-11-19.
@@ -462,7 +462,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 * [HHVM](https://github.com/facebook/hhvm) ⭐ 18,656 | 🐛 544 | 🌐 C++ | 📅 2026-08-27 - Facebook's Open Source VM for running Hack and PHP programs.
 * [CoreCLR](https://github.com/dotnet/coreclr) ⚠️ Archived - The .NET's Common Language Runtime.
 * [Erlang BEAM](https://github.com/erlang/otp) ⭐ 12,335 | 🐛 585 | 🌐 Erlang | 📅 2026-08-26.
-* [CakeML](https://github.com/CakeML/cakeml) ⭐ 1,188 | 🐛 244 | 🌐 Standard ML | 📅 2026-08-27.
+* [CakeML](https://github.com/CakeML/cakeml) ⭐ 1,188 | 🐛 245 | 🌐 Standard ML | 📅 2026-08-27.
 * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
 * JVM Implementations:
   * [Kaffe](https://github.com/kaffe/kaffe) ⚠️ Archived.

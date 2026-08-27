@@ -412,7 +412,7 @@
                 "archived": false,
                 "id": 49662222,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:07:05Z",
+                "last_commit": "2026-08-27T11:57:09Z",
                 "owner": "oracle",
                 "repo": "graal",
                 "stars": 21675
@@ -814,7 +814,7 @@
                 "last_commit": "2026-08-25T12:57:57Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43988
+                "stars": 43987
               }
             },
             {
@@ -844,7 +844,7 @@
                 "last_commit": "2026-08-27T08:08:41Z",
                 "owner": "dotnet",
                 "repo": "roslyn",
-                "stars": 20628
+                "stars": 20629
               }
             },
             {
@@ -1685,7 +1685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:23.077Z",
+    "last_updated": "2026-08-27T12:14:47.306Z",
     "original_repository_info": {
       "archived": false,
       "id": 63278843,
