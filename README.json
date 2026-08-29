@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.",
+                    "homepage": null,
                     "id": 85983888,
                     "language": "Erlang",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-26T08:42:38Z",
+                    "open_issues": 1,
                     "owner": "happi",
                     "repo": "theBeamBook",
-                    "stars": 4050
+                    "stars": 4050,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:24:05.617Z"
                 },
@@ -35,12 +40,29 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Repository for the book \"Crafting Interpreters\"",
+                        "homepage": "http://www.craftinginterpreters.com/",
                         "id": 79055279,
                         "language": "HTML",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-08-07T12:07:07Z",
+                        "open_issues": 145,
                         "owner": "munificent",
                         "repo": "craftinginterpreters",
-                        "stars": 11014
+                        "stars": 11015,
+                        "topics": [
+                          "book",
+                          "bytecode",
+                          "c",
+                          "compiler",
+                          "interpreter",
+                          "java",
+                          "language",
+                          "lox",
+                          "markdown",
+                          "parser",
+                          "scripting-language"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:24:05.617Z"
                     }
@@ -70,12 +92,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A neatly typeset version of John McCarthy's classic paper",
+                    "homepage": null,
                     "id": 53211525,
                     "language": "TeX",
+                    "license": "Unlicense",
                     "last_commit": "2025-02-01T17:23:25Z",
+                    "open_issues": 1,
                     "owner": "jaseemabid",
                     "repo": "micromanual",
-                    "stars": 124
+                    "stars": 124,
+                    "topics": [
+                      "classic",
+                      "lisp",
+                      "micromanual",
+                      "paper"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:24:05.617Z"
                 }
@@ -95,12 +127,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Miscellaneous articles. The readme is the table of contents.",
+                "homepage": null,
                 "id": 8079216,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2023-07-12T09:28:11Z",
+                "open_issues": 0,
                 "owner": "quchen",
                 "repo": "articles",
-                "stars": 1311
+                "stars": 1311,
+                "topics": [
+                  "articles",
+                  "haskell",
+                  "hindley-milner",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -116,12 +158,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A small Lisp interpreter in JavaScript",
+                    "homepage": "http://maryrosecook.com/blog/post/little-lisp-interpreter",
                     "id": 10752503,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-08-02T20:48:19Z",
+                    "open_issues": 2,
                     "owner": "maryrosecook",
                     "repo": "littlelisp",
-                    "stars": 620
+                    "stars": 620,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:24:05.617Z"
                 }
@@ -147,12 +194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The single instruction C compiler",
+                "homepage": null,
                 "id": 37501621,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-29T18:29:10Z",
+                "open_issues": 25,
                 "owner": "xoreaxeaxeax",
                 "repo": "movfuscator",
-                "stars": 10493
+                "stars": 10496,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -163,12 +215,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+                "homepage": "http://www.capstone-engine.org",
                 "id": 14735429,
                 "language": "C",
-                "last_commit": "2026-08-28T12:25:49Z",
+                "license": null,
+                "last_commit": "2026-08-28T14:18:08Z",
+                "open_issues": 367,
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 8979
+                "stars": 8979,
+                "topics": [
+                  "arm",
+                  "arm64",
+                  "bpf",
+                  "disassembler",
+                  "ethereum",
+                  "framework",
+                  "m0s65xx",
+                  "m680x",
+                  "m68k",
+                  "mips",
+                  "powerpc",
+                  "reverse-engineering",
+                  "riscv",
+                  "security",
+                  "sparc",
+                  "systemz",
+                  "tms320c64x",
+                  "webassembly",
+                  "x86",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -179,12 +257,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Rubinius Language Platform",
+                "homepage": "https://rubinius.com",
                 "id": 27,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2025-09-11T04:54:08Z",
+                "open_issues": 19,
                 "owner": "rubinius",
                 "repo": "rubinius",
-                "stars": 3093
+                "stars": 3093,
+                "topics": [
+                  "programming-languages",
+                  "rubinius",
+                  "virtual-machine"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -195,12 +282,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings",
+                "homepage": "http://www.keystone-engine.org",
                 "id": 57302200,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-18T21:28:10Z",
+                "open_issues": 242,
                 "owner": "keystone-engine",
                 "repo": "keystone",
-                "stars": 2625
+                "stars": 2625,
+                "topics": [
+                  "arm",
+                  "arm64",
+                  "assembler",
+                  "framework",
+                  "hexagon",
+                  "mips",
+                  "powerpc",
+                  "reverse-engineering",
+                  "security",
+                  "sparc",
+                  "systemz",
+                  "x86",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -211,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repo contains LLILC, an LLVM based compiler for .NET Core. It includes a set of cross-platform .NET code generation tools that enables compilation of MSIL byte code to LLVM supported platforms.",
+                "homepage": null,
                 "id": 30043131,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-03-15T01:37:01Z",
+                "open_issues": 0,
                 "owner": "dotnet",
                 "repo": "llilc",
-                "stars": 1514
+                "stars": 1514,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -227,12 +338,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Language Platform for Dynamic Programming Languages",
+                "homepage": "https://pointersgonewild.com/category/zeta/",
                 "id": 89325203,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-07-19T02:01:32Z",
+                "open_issues": 8,
                 "owner": "zetavm",
                 "repo": "zetavm",
-                "stars": 643
+                "stars": 643,
+                "topics": [
+                  "interpreter",
+                  "jit",
+                  "jit-compiler",
+                  "language",
+                  "vm"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -243,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple compiler frontend using LLVM as backend",
+                "homepage": null,
                 "id": 59149204,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2018-10-27T13:25:52Z",
+                "open_issues": 0,
                 "owner": "igor84",
                 "repo": "summus",
-                "stars": 243
+                "stars": 243,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -266,12 +393,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Low-latency machine code generation",
+                "homepage": "https://asmjit.com",
                 "id": 16327099,
                 "language": "C++",
+                "license": "Zlib",
                 "last_commit": "2026-03-26T08:20:00Z",
+                "open_issues": 26,
                 "owner": "asmjit",
                 "repo": "asmjit",
-                "stars": 4590
+                "stars": 4591,
+                "topics": [
+                  "aarch64",
+                  "asmjit",
+                  "assembler",
+                  "code-generation",
+                  "compiler",
+                  "cpp",
+                  "jit",
+                  "jit-compilation",
+                  "x86",
+                  "x86-64",
+                  "x86-x64"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -282,12 +426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The lcc retargetable ANSI C compiler",
+                "homepage": "https://drh.github.io/lcc/",
                 "id": 957049,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-10-06T03:38:10Z",
+                "open_issues": 43,
                 "owner": "drh",
                 "repo": "lcc",
-                "stars": 2612
+                "stars": 2612,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -298,12 +447,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OrangeC Compiler And Tool Chain",
+                "homepage": "http://ladsoft.tripod.com/orange_c_compiler.html",
                 "id": 10257340,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-19T00:17:38Z",
+                "open_issues": 117,
                 "owner": "LADSoft",
                 "repo": "OrangeC",
-                "stars": 339
+                "stars": 339,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "compiler",
+                  "optimization",
+                  "orange",
+                  "orangec-compiler",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -321,12 +483,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++11 library used to create a managed program (CIL) and dump to either .IL, .EXE, or .DLL format",
+                "homepage": null,
                 "id": 72274817,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-05T13:19:02Z",
+                "open_issues": 1,
                 "owner": "LADSoft",
                 "repo": "DotNetPELib",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "assembly",
+                  "c-plus-plus",
+                  "library",
+                  "managed",
+                  "msil"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -344,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Parsing Expression Grammar (PEG) module, using the D programming language.",
+                "homepage": null,
                 "id": 3593205,
                 "language": "D",
+                "license": null,
                 "last_commit": "2025-07-31T23:45:57Z",
+                "open_issues": 67,
                 "owner": "dlang-community",
                 "repo": "Pegged",
-                "stars": 549
+                "stars": 549,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -360,12 +538,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for lexing and parsing D source code",
+                "homepage": "https://libdparse.dlang.io",
                 "id": 21142714,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2026-05-10T16:14:14Z",
+                "open_issues": 27,
                 "owner": "dlang-community",
                 "repo": "libdparse",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "ast",
+                  "d",
+                  "dlang",
+                  "parser",
+                  "parsing",
+                  "syntax-tree"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -376,12 +566,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D bindings for LLVM",
+                "homepage": null,
                 "id": 8778644,
                 "language": "D",
+                "license": "MIT",
                 "last_commit": "2020-06-12T09:28:38Z",
+                "open_issues": 1,
                 "owner": "MoritzMaxeiner",
                 "repo": "llvm-d",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "bindings",
+                  "d",
+                  "llvm"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -392,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LALR(1) Parser Generator for the D Programming Language",
+                "homepage": null,
                 "id": 8596337,
                 "language": "D",
+                "license": null,
                 "last_commit": "2017-07-14T04:25:40Z",
+                "open_issues": 0,
                 "owner": "pwil3058",
                 "repo": "dunnart",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -408,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FancyPars - a very fast parserGenerator ",
+                "homepage": null,
                 "id": 29127129,
                 "language": "D",
+                "license": null,
                 "last_commit": "2026-01-04T14:30:03Z",
+                "open_issues": 0,
                 "owner": "UplinkCoder",
                 "repo": "FancyPars-lite",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -431,12 +640,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+                "homepage": "https://www.graalvm.org",
                 "id": 49662222,
                 "language": "Java",
-                "last_commit": "2026-08-28T12:53:06Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T22:26:47Z",
+                "open_issues": 855,
                 "owner": "oracle",
                 "repo": "graal",
-                "stars": 21676
+                "stars": 21679,
+                "topics": [
+                  "aot",
+                  "compiler",
+                  "graalvm",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -454,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A monadic parser combinator library",
+                "homepage": "https://hackage.haskell.org/package/parsec",
                 "id": 18043169,
                 "language": "Haskell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-09T14:18:40Z",
+                "open_issues": 50,
                 "owner": "haskell",
                 "repo": "parsec",
-                "stars": 894
+                "stars": 894,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -470,12 +694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rich LLVM bindings for Haskell (with transfer of LLVM IR to and from C++, detailed compilation pass control, etc.)",
+                "homepage": "http://hackage.haskell.org/package/llvm-general",
                 "id": 10741539,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2017-03-03T03:40:12Z",
+                "open_issues": 30,
                 "owner": "bscarlet",
                 "repo": "llvm-general",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -486,12 +715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Combinators for manipulating locally-nameless generalized de Bruijn terms",
+                "homepage": "https://www.schoolofhaskell.com/user/edwardk/bound",
                 "id": 4681346,
                 "language": "Haskell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-23T15:19:44Z",
+                "open_issues": 9,
                 "owner": "ekmett",
                 "repo": "bound",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -502,12 +736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Higher-order optimization library",
+                "homepage": "http://hackage.haskell.org/package/hoopl",
                 "id": 33915092,
                 "language": "Haskell",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-12T13:10:30Z",
+                "open_issues": 11,
                 "owner": "haskell",
                 "repo": "hoopl",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -518,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wadler/Leijen Pretty Printer for Text values",
+                "homepage": null,
                 "id": 33479374,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-11-15T20:02:32Z",
+                "open_issues": 7,
                 "owner": "ivan-m",
                 "repo": "wl-pprint-text",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -541,12 +785,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library and language for building parsers, interpreters, compilers, etc.",
+                "homepage": null,
                 "id": 36021747,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-19T06:06:39Z",
+                "open_issues": 48,
                 "owner": "ohmjs",
                 "repo": "ohm",
-                "stars": 5543
+                "stars": 5543,
+                "topics": [
+                  "compiler",
+                  "grammars",
+                  "javascript",
+                  "parser",
+                  "parsing",
+                  "peg",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -557,12 +814,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.",
+                "homepage": "https://nearley.js.org",
                 "id": 17116619,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-14T02:34:00Z",
+                "open_issues": 199,
                 "owner": "kach",
                 "repo": "nearley",
-                "stars": 3743
+                "stars": 3743,
+                "topics": [
+                  "earley-algorithm",
+                  "earley-parser",
+                  "javascript",
+                  "nearley",
+                  "node",
+                  "nodejs",
+                  "parser",
+                  "parsing",
+                  "parsing-library"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -578,12 +850,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tool for displaying IR used by V8 and Dart VM optimizing compilers",
+                    "homepage": null,
                     "id": 16740381,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-02T19:54:40Z",
+                    "open_issues": 22,
                     "owner": "mraleph",
                     "repo": "irhydra",
-                    "stars": 439
+                    "stars": 439,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:24:05.617Z"
                 }
@@ -601,12 +878,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "bison / YACC / LEX in JavaScript (LALR(1), SLR(1), etc. lexer/parser generator)",
+                    "homepage": "https://gerhobbelt.github.io/jison/",
                     "id": 7255623,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-03-06T05:14:46Z",
+                    "open_issues": 30,
                     "owner": "GerHobbelt",
                     "repo": "jison",
-                    "stars": 125
+                    "stars": 125,
+                    "topics": [
+                      "bison",
+                      "flex",
+                      "lalr",
+                      "lalr1",
+                      "lex",
+                      "lexer",
+                      "lr",
+                      "lr1",
+                      "parser",
+                      "parsing",
+                      "slr",
+                      "slr1",
+                      "tokenizer",
+                      "yacc"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:24:05.617Z"
                 }
@@ -626,12 +923,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.",
+                "homepage": "https://github.com/cglib/cglib/wiki",
                 "id": 18242149,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-16T10:22:51Z",
+                "open_issues": 96,
                 "owner": "cglib",
                 "repo": "cglib",
-                "stars": 4893
+                "stars": 4893,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -642,12 +944,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The missing Java distribution of native C++ libraries",
+                "homepage": null,
                 "id": 18993042,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-12T02:17:17Z",
+                "open_issues": 310,
                 "owner": "bytedeco",
                 "repo": "javacpp-presets",
-                "stars": 2850
+                "stars": 2850,
+                "topics": [
+                  "android",
+                  "java",
+                  "javacpp-presets",
+                  "maven",
+                  "native-libraries",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -665,12 +979,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java parser combinator library written with an unmatched feature set.",
+                "homepage": null,
                 "id": 74484613,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-10-30T13:37:02Z",
+                "open_issues": 0,
                 "owner": "norswap",
                 "repo": "autumn",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "grammar",
+                  "grammars",
+                  "parse-trees",
+                  "parser",
+                  "parser-combinator",
+                  "parser-combinators",
+                  "parser-framework",
+                  "parser-library",
+                  "parsers",
+                  "parsing",
+                  "parsing-combinators",
+                  "parsing-expression-grammar"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -688,12 +1020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An attempt to port David Beazley's PLY to RPython, and give it a cooler API.",
+                "homepage": null,
                 "id": 5308421,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-01-21T19:10:13Z",
+                "open_issues": 34,
                 "owner": "alex",
                 "repo": "rply",
-                "stars": 390
+                "stars": 391,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -711,12 +1048,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust parser combinator framework",
+                "homepage": null,
                 "id": 27029984,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-08-26T11:10:34Z",
+                "open_issues": 291,
                 "owner": "rust-bakery",
                 "repo": "nom",
-                "stars": 10462
+                "stars": 10462,
+                "topics": [
+                  "byte-array",
+                  "grammar",
+                  "nom",
+                  "parse",
+                  "parser",
+                  "parser-combinators",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -727,12 +1077,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Elegant Parser",
+                "homepage": "https://pest.rs",
                 "id": 56964647,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T00:58:02Z",
+                "open_issues": 64,
                 "owner": "pest-parser",
                 "repo": "pest",
-                "stars": 5385
+                "stars": 5386,
+                "topics": [
+                  "parsing",
+                  "peg",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -743,12 +1102,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Repository for the Rust Language Server (aka RLS)",
+                "homepage": null,
                 "id": 66979953,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-29T21:32:29Z",
+                "open_issues": 293,
                 "owner": "rust-lang",
                 "repo": "rls",
-                "stars": 3498
+                "stars": 3498,
+                "topics": [
+                  "ide",
+                  "language-server-protocol",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -759,12 +1127,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parsing Expression Grammar (PEG) parser generator for Rust",
+                "homepage": "https://crates.io/crates/peg",
                 "id": 12204606,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-05-04T21:01:19Z",
+                "open_issues": 43,
                 "owner": "kevinmehall",
                 "repo": "rust-peg",
-                "stars": 1606
+                "stars": 1606,
+                "topics": [
+                  "grammar",
+                  "parser-generator",
+                  "parsing",
+                  "parsing-expression-grammars",
+                  "peg",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -775,12 +1155,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A parser combinator library for Rust",
+                "homepage": "https://docs.rs/combine/*/combine/",
                 "id": 29131678,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-25T15:35:40Z",
+                "open_issues": 34,
                 "owner": "Marwes",
                 "repo": "combine",
-                "stars": 1369
+                "stars": 1369,
+                "topics": [
+                  "parser",
+                  "parser-combinators",
+                  "rust",
+                  "zero-copy"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -791,12 +1181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Safe Rust LLVM bindings",
+                "homepage": null,
                 "id": 39853006,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2016-12-25T16:24:30Z",
+                "open_issues": 3,
                 "owner": "jauhien",
                 "repo": "iron-llvm",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -807,12 +1202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LR(1) parser generator for Rust",
+                "homepage": null,
                 "id": 618782454,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-24T22:49:38Z",
+                "open_issues": 0,
                 "owner": "nikomatsakis",
                 "repo": "lalrpop",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -836,12 +1236,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+                "homepage": "https://www.typescriptlang.org",
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-27T23:48:59Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:01:59Z",
+                "open_issues": 5166,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110745
+                "stars": 110758,
+                "topics": [
+                  "javascript",
+                  "language",
+                  "typechecker",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -852,12 +1262,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+                "homepage": "https://babel.dev",
                 "id": 24560307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:39:56Z",
+                "open_issues": 777,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43985
+                "stars": 43985,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "compiler",
+                  "es2015",
+                  "es6",
+                  "flavortown",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -868,12 +1291,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moved to Codeberg",
+                "homepage": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
                 "id": 40276274,
                 "language": "Zig",
+                "license": "MIT",
                 "last_commit": "2025-11-27T01:42:59Z",
+                "open_issues": 2835,
                 "owner": "ziglang",
                 "repo": "zig",
-                "stars": 43304
+                "stars": 43303,
+                "topics": [
+                  "compiler",
+                  "language",
+                  "zig"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -884,12 +1316,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+                "homepage": "https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/",
                 "id": 29078997,
                 "language": "C#",
-                "last_commit": "2026-08-28T12:16:07Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:09:06Z",
+                "open_issues": 6294,
                 "owner": "dotnet",
                 "repo": "roslyn",
-                "stars": 20631
+                "stars": 20631,
+                "topics": [
+                  "csharp",
+                  "hacktoberfest",
+                  "roslyn",
+                  "visual-basic",
+                  "visual-studio"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -900,12 +1343,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A virtual machine for executing programs written in Hack.",
+                "homepage": "https://hhvm.com",
                 "id": 455600,
                 "language": "C++",
-                "last_commit": "2026-08-28T12:48:36Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:17:11Z",
+                "open_issues": 544,
                 "owner": "facebook",
                 "repo": "hhvm",
-                "stars": 18655
+                "stars": 18656,
+                "topics": [
+                  "hack",
+                  "hacklang",
+                  "hhvm",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -916,12 +1369,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+                "homepage": "https://nim-lang.org",
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-28T13:13:03Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:44:46Z",
+                "open_issues": 2194,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18198
+                "stars": 18197,
+                "topics": [
+                  "compiler",
+                  "efficient",
+                  "hacktoberfest",
+                  "language",
+                  "macros",
+                  "metaprogramming",
+                  "nim",
+                  "procedural"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -932,12 +1399,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.",
+                "homepage": "http://wren.io",
                 "id": 14509809,
                 "language": "Wren",
+                "license": "MIT",
                 "last_commit": "2025-11-19T22:18:55Z",
+                "open_issues": 271,
                 "owner": "wren-lang",
                 "repo": "wren",
-                "stars": 8123
+                "stars": 8123,
+                "topics": [
+                  "bytecode",
+                  "c",
+                  "fibers",
+                  "interpreter",
+                  "language",
+                  "scripting-languages",
+                  "wren"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -948,12 +1428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chez Scheme ",
+                "homepage": null,
                 "id": 56263501,
                 "language": "Scheme",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T15:54:56Z",
+                "open_issues": 148,
                 "owner": "cisco",
                 "repo": "ChezScheme",
-                "stars": 7337
+                "stars": 7338,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -964,12 +1449,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single ~1MB file! ",
+                "homepage": "http://red-lang.org",
                 "id": 1449773,
                 "language": "Red",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-18T21:17:40Z",
+                "open_issues": 537,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6033
+                "stars": 6033,
+                "topics": [
+                  "compiler",
+                  "cross-platform",
+                  "gui",
+                  "interpreter",
+                  "language",
+                  "native",
+                  "programming-language",
+                  "reactive-programming",
+                  "rebol",
+                  "red",
+                  "repl",
+                  "scripting-language",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -980,12 +1484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.",
+                "homepage": "https://github.com/Frege/frege/wiki/_pages",
                 "id": 5987163,
                 "language": "Frege",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-11T08:33:45Z",
+                "open_issues": 44,
                 "owner": "Frege",
                 "repo": "frege",
-                "stars": 3712
+                "stars": 3712,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -996,12 +1505,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The P programming language.",
+                "homepage": "https://p-org.github.io/P/",
                 "id": 37799274,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-21T19:09:01Z",
+                "open_issues": 30,
                 "owner": "p-org",
                 "repo": "P",
-                "stars": 3668
+                "stars": 3670,
+                "topics": [
+                  "asynchronous",
+                  "distributed-systems",
+                  "event-driven",
+                  "formal-methods",
+                  "formal-verification",
+                  "model-checking",
+                  "p",
+                  "programming-language",
+                  "state-machine",
+                  "systematic-testing"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1012,12 +1537,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A static, type inferred and embeddable language written in Rust.",
+                "homepage": "https://gluon-lang.org",
                 "id": 40078838,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-06T10:41:39Z",
+                "open_issues": 160,
                 "owner": "gluon-lang",
                 "repo": "gluon",
-                "stars": 3435
+                "stars": 3435,
+                "topics": [
+                  "compiler",
+                  "embeddable",
+                  "functional",
+                  "gluon",
+                  "language",
+                  "programming-language",
+                  "repl",
+                  "rust",
+                  "type-inference"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1028,12 +1568,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Eta Programming Language, a dialect of Haskell on the JVM",
+                "homepage": "https://eta-lang.org",
                 "id": 55689010,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-07-31T17:14:19Z",
+                "open_issues": 242,
                 "owner": "typelead",
                 "repo": "eta",
-                "stars": 2634
+                "stars": 2634,
+                "topics": [
+                  "eta",
+                  "functional-programming",
+                  "haskell",
+                  "jvm"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1044,12 +1594,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries",
+                "homepage": null,
                 "id": 130925534,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-24T02:48:15Z",
+                "open_issues": 68,
                 "owner": "facebookarchive",
                 "repo": "BOLT",
-                "stars": 2532
+                "stars": 2532,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1060,12 +1615,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Lua programming language with CMake based build",
+                "homepage": "www.lua.org",
                 "id": 950038,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2019-10-31T01:41:55Z",
+                "open_issues": 6,
                 "owner": "LuaDist",
                 "repo": "lua",
-                "stars": 1491
+                "stars": 1491,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1076,12 +1636,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interpreted language focused on expressiveness and type safety.",
+                "homepage": "http://lily-lang.org",
                 "id": 18459138,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-26T22:37:03Z",
+                "open_issues": 0,
                 "owner": "FascinatedBox",
                 "repo": "lily",
-                "stars": 1093
+                "stars": 1093,
+                "topics": [
+                  "embeddable",
+                  "interpreter",
+                  "language",
+                  "lily",
+                  "scripting-languages"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1092,12 +1663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Mirah Programming Language",
+                "homepage": "http://mirah.org",
                 "id": 832272,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-23T05:49:40Z",
+                "open_issues": 140,
                 "owner": "mirah",
                 "repo": "mirah",
-                "stars": 863
+                "stars": 863,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1108,12 +1684,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ELENA is a general-purpose language with late binding. It is multi-paradigm, combining features of functional and object-oriented programming. Rich set of tools are provided to deal with message dispatching : multi-methods, message qualifying, generic message handlers, run-time interfaces",
+                "homepage": "https://elena-lang.github.io/",
                 "id": 13586508,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:42:47Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:52:20Z",
+                "open_issues": 126,
                 "owner": "ELENA-LANG",
                 "repo": "elena-lang",
-                "stars": 238
+                "stars": 238,
+                "topics": [
+                  "compiler",
+                  "elena",
+                  "language",
+                  "mixins",
+                  "multi-methods",
+                  "object-oriented",
+                  "programming-language",
+                  "script-engine"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -1131,12 +1721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":snowman: Possibly the smallest compiler ever",
+                "homepage": null,
                 "id": 53639099,
                 "language": "JavaScript",
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-02-19T12:33:21Z",
+                "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28562
+                "stars": 28565,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1147,12 +1742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C in four functions",
+                "homepage": null,
                 "id": 26181287,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2023-12-26T06:13:39Z",
+                "open_issues": 29,
                 "owner": "rswier",
                 "repo": "c4",
-                "stars": 10787
+                "stars": 10788,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1163,12 +1763,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mal - Make a Lisp",
+                "homepage": null,
                 "id": 18079664,
                 "language": "Assembly",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-22T16:42:57Z",
+                "open_issues": 53,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10722
+                "stars": 10723,
+                "topics": [
+                  "bash",
+                  "c",
+                  "c-plus-plus",
+                  "c-sharp",
+                  "clojure",
+                  "docker",
+                  "java",
+                  "javascript",
+                  "learn-to-code",
+                  "lisp",
+                  "lisp-interpreter",
+                  "makefile",
+                  "mal",
+                  "php",
+                  "python",
+                  "r",
+                  "ruby",
+                  "scala",
+                  "swift",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1179,12 +1805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JVM written in Scala",
+                "homepage": null,
                 "id": 8531475,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2023-07-23T00:16:47Z",
+                "open_issues": 0,
                 "owner": "lihaoyi",
                 "repo": "Metascala",
-                "stars": 1185
+                "stars": 1185,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1195,12 +1826,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small C Compiler generating ELF executable Arm architecture, supporting JIT execution",
+                "homepage": null,
                 "id": 50844155,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-05T09:19:20Z",
+                "open_issues": 7,
                 "owner": "jserv",
                 "repo": "amacc",
-                "stars": 1060
+                "stars": 1060,
+                "topics": [
+                  "arm",
+                  "armv7a",
+                  "c",
+                  "compiler",
+                  "dynamic-linking",
+                  "jit-compiler",
+                  "linux",
+                  "self-hosting"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1211,12 +1856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lisp-flavoured C",
+                "homepage": null,
                 "id": 10273216,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-04-20T21:30:53Z",
+                "open_issues": 28,
                 "owner": "tomhrr",
                 "repo": "dale",
-                "stars": 1045
+                "stars": 1045,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1227,12 +1877,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "\"interesting\" VM in C. Let's see how this goes.",
+                "homepage": null,
                 "id": 16738734,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-01-18T23:05:49Z",
+                "open_issues": 6,
                 "owner": "tekknolagi",
                 "repo": "carp",
-                "stars": 983
+                "stars": 983,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1243,12 +1898,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":camel: Statically typed functional programming language implementation with Go and LLVM",
+                "homepage": null,
                 "id": 80016833,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2020-07-04T04:46:48Z",
+                "open_issues": 1,
                 "owner": "rhysd",
                 "repo": "gocaml",
-                "stars": 756
+                "stars": 756,
+                "topics": [
+                  "compiler",
+                  "go",
+                  "golang",
+                  "language",
+                  "llvm",
+                  "ml",
+                  "programming-language"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1259,12 +1927,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haskell-powered Python 3 interpreter",
+                "homepage": null,
                 "id": 21913596,
                 "language": "Haskell",
+                "license": "GPL-3.0",
                 "last_commit": "2017-08-01T00:18:19Z",
+                "open_issues": 0,
                 "owner": "mattgreen",
                 "repo": "hython",
-                "stars": 582
+                "stars": 582,
+                "topics": [
+                  "haskell",
+                  "interpreter",
+                  "language",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1275,12 +1953,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight BASIC interpreter written in standard C in dual files. Aims to be embeddable, extendable and portable.",
+                "homepage": "http://paladin-t.github.io/my_basic/",
                 "id": 16881875,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-11T07:19:23Z",
+                "open_issues": 30,
                 "owner": "paladin-t",
                 "repo": "my_basic",
-                "stars": 571
+                "stars": 571,
+                "topics": [
+                  "basic",
+                  "interpreter",
+                  "programming-language",
+                  "scripting-language"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1291,12 +1979,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloe programming language",
+                "homepage": "https://cloe-lang.org",
                 "id": 83192224,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-23T20:43:34Z",
+                "open_issues": 10,
                 "owner": "cloe-lang",
                 "repo": "cloe",
-                "stars": 413
+                "stars": 413,
+                "topics": [
+                  "asynchronous",
+                  "concurrent",
+                  "functional",
+                  "language",
+                  "lazy",
+                  "parallel",
+                  "reactive"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1307,12 +2008,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Compiler for the Popr Language",
+                "homepage": "https://popr.dev",
                 "id": 6116266,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-01-07T07:06:42Z",
+                "open_issues": 0,
                 "owner": "HackerFoo",
                 "repo": "poprc",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "compiler",
+                  "concatenative",
+                  "dependent-types",
+                  "functional",
+                  "high-level-synthesis",
+                  "language",
+                  "linear-logic",
+                  "logic-programming",
+                  "non-deterministic",
+                  "partial-evaluators",
+                  "popr",
+                  "popr-compiler",
+                  "supercompiler",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1323,12 +2044,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐈 The Charly Programming Language | Written by @KCreate",
+                "homepage": "https://charly-lang.github.io/charly/",
                 "id": 68742983,
                 "language": "Crystal",
+                "license": "MIT",
                 "last_commit": "2020-03-23T21:01:02Z",
+                "open_issues": 14,
                 "owner": "charly-lang",
                 "repo": "charly",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "crystal",
+                  "interpreter",
+                  "programming-language",
+                  "repl"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1339,12 +2070,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultra Tiny Compiler",
+                "homepage": null,
                 "id": 55230149,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2026-02-10T17:45:19Z",
+                "open_issues": 0,
                 "owner": "antonmedv",
                 "repo": "ultra-tiny-compiler",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1355,12 +2091,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Oberon-07 compiler for the JVM",
+                "homepage": null,
                 "id": 102318994,
                 "language": "Modula-2",
+                "license": "MIT",
                 "last_commit": "2026-04-16T17:24:04Z",
+                "open_issues": 0,
                 "owner": "lboasso",
                 "repo": "oberonc",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "compiler",
+                  "jvm",
+                  "oberon",
+                  "oberon-07",
+                  "oberon-compiler",
+                  "programming-language"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1371,12 +2119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal self-hosted JavaScript compiler in 1k lines of code",
+                "homepage": "http://maierfelix.github.io/mini-js/",
                 "id": 77621845,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-08-26T14:49:36Z",
+                "open_issues": 0,
                 "owner": "maierfelix",
                 "repo": "mini-js",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1387,12 +2140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rabbit VM.",
+                "homepage": null,
                 "id": 35933261,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2019-07-18T01:06:12Z",
+                "open_issues": 0,
                 "owner": "RabbitVM",
                 "repo": "rabbit",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1403,12 +2161,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A compiler for a simple language, built with Python and LLVM",
+                "homepage": null,
                 "id": 133724628,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-21T02:38:34Z",
+                "open_issues": 2,
                 "owner": "syegulalp",
                 "repo": "Akilang",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "aki",
+                  "compiler",
+                  "conway-life",
+                  "demo",
+                  "language",
+                  "language-syntax",
+                  "llvm",
+                  "llvmlite",
+                  "programming-language",
+                  "python",
+                  "python-3",
+                  "python-3-6",
+                  "python-3-7",
+                  "python3",
+                  "python36",
+                  "python37",
+                  "repl",
+                  "win32",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1419,12 +2202,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mirror of official llgo git repository located at http://llvm.org/git/llgo. Updated every five minutes. http://llvm.org/svn/llvm-project/llgo/trunk/README.TXT",
+                "homepage": null,
                 "id": 46365939,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-22T18:30:36Z",
+                "open_issues": 0,
                 "owner": "llvm-mirror",
                 "repo": "llgo",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1435,12 +2223,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Virtual Machine with a 240x160 VRAM display.",
+                "homepage": null,
                 "id": 80375800,
                 "language": "Crystal",
+                "license": "MIT",
                 "last_commit": "2020-03-23T23:07:22Z",
+                "open_issues": 3,
                 "owner": "KCreate",
                 "repo": "stackvm",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "assembler",
+                  "assembly",
+                  "compiler",
+                  "debugger",
+                  "virtual-machine",
+                  "vram"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1451,12 +2251,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":snake: :cool: Compiler for the COOL programming language targeting the MIPS 32-bit architecture, in Python 3",
+                "homepage": null,
                 "id": 58228413,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-07T07:19:26Z",
+                "open_issues": 11,
                 "owner": "aalhour",
                 "repo": "PyCOOLC",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "compiler",
+                  "cool",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1467,12 +2276,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Squint: A peephole optimizer for stack VM compilers",
+                "homepage": null,
                 "id": 461374829,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-17T01:22:29Z",
+                "open_issues": 13,
                 "owner": "HPCguy",
                 "repo": "Squint",
-                "stars": 37
+                "stars": 38,
+                "topics": [
+                  "aarch32",
+                  "arm-optimization",
+                  "assembly",
+                  "c-compiler",
+                  "code-generation",
+                  "compiler",
+                  "compiler-optimization",
+                  "dynamic-linking",
+                  "floating-point",
+                  "jit-compiler",
+                  "lulesh",
+                  "optimizing-compiler",
+                  "peephole",
+                  "performance",
+                  "self-hosted",
+                  "self-hosting",
+                  "self-hosting-compiler",
+                  "shock-tube",
+                  "single-file"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1483,12 +2317,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toy compiler for a fictional go-like language called Gone.",
+                "homepage": null,
                 "id": 128694778,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-01-13T03:40:47Z",
+                "open_issues": 0,
                 "owner": "paivett",
                 "repo": "gone",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "compiler",
+                  "llvmlite",
+                  "parser",
+                  "python",
+                  "sly"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1499,12 +2344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy Programming Language / VM",
+                "homepage": null,
                 "id": 112934765,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-08-20T22:04:57Z",
+                "open_issues": 0,
                 "owner": "erhanbaris",
                 "repo": "EasyLang",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1515,12 +2365,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple stack language in C. Has a few basic commands; working to implement a `while` loop and user-defined functions. If statement would be nice.           HC SVNT DRACONES.",
+                "homepage": "http://tekknolagi.lighthouseapp.com/projects/81045-gecho/tickets",
                 "id": 2152900,
                 "language": "C",
+                "license": null,
                 "last_commit": "2012-02-10T23:11:09Z",
+                "open_issues": 0,
                 "owner": "tekknolagi",
                 "repo": "gecho",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1531,12 +2386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stack machine simulation",
+                "homepage": null,
                 "id": 5948579,
                 "language": "C",
+                "license": null,
                 "last_commit": "2012-09-25T10:59:37Z",
+                "open_issues": 0,
                 "owner": "dsturnbull",
                 "repo": "stack_cpu",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1547,12 +2407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 70238140,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2016-10-26T17:52:45Z",
+                "open_issues": 0,
                 "owner": "MunVM",
                 "repo": "MunVM",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1563,12 +2428,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Eschelle programming language",
+                "homepage": null,
                 "id": 70748742,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2018-06-16T12:50:24Z",
+                "open_issues": 0,
                 "owner": "Eschelle",
                 "repo": "Eschelle",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "functional-programming",
+                  "garbage-collector",
+                  "programming-languages",
+                  "virtual-machine"
+                ]
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1584,12 +2459,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kenichi Asai's reflective programming language Black",
+                    "homepage": null,
                     "id": 24241945,
                     "language": "Scheme",
+                    "license": null,
                     "last_commit": "2022-04-11T06:39:38Z",
+                    "open_issues": 2,
                     "owner": "readevalprintlove",
                     "repo": "black",
-                    "stars": 199
+                    "stars": 199,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:24:05.617Z"
                 }
@@ -1613,12 +2493,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A virtual machine for executing programs written in Hack.",
+            "homepage": "https://hhvm.com",
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-28T12:48:36Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:17:11Z",
+            "open_issues": 544,
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18655
+            "stars": 18656,
+            "topics": [
+              "hack",
+              "hacklang",
+              "hhvm",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
         },
@@ -1629,12 +2519,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.",
+            "homepage": "https://docs.microsoft.com/dotnet/core/",
             "id": 30092893,
             "language": null,
+            "license": null,
             "last_commit": "2023-01-21T00:33:11Z",
+            "open_issues": 0,
             "owner": "dotnet",
             "repo": "coreclr",
-            "stars": 12765
+            "stars": 12765,
+            "topics": [
+              "c-sharp",
+              "coreclr",
+              "corefx",
+              "dotnet",
+              "dotnet-core",
+              "dotnetcore",
+              "jit",
+              "runtime"
+            ]
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
         },
@@ -1645,12 +2549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang/OTP",
+            "homepage": "http://erlang.org",
             "id": 374927,
             "language": "Erlang",
-            "last_commit": "2026-08-27T12:59:13Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:25:17Z",
+            "open_issues": 600,
             "owner": "erlang",
             "repo": "otp",
-            "stars": 12339
+            "stars": 12341,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
         },
@@ -1661,12 +2570,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CakeML: A Verified Implementation of ML",
+            "homepage": "https://cakeml.org",
             "id": 6138801,
             "language": "Standard ML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T11:09:21Z",
+            "open_issues": 248,
             "owner": "CakeML",
             "repo": "cakeml",
-            "stars": 1188
+            "stars": 1188,
+            "topics": [
+              "compiler",
+              "formal-semantics",
+              "formal-verification",
+              "hol",
+              "programming-language",
+              "sml",
+              "theorem-proving"
+            ]
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
         },
@@ -1682,12 +2604,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Kaffe Virtual Machine",
+                "homepage": "http://kaffe.org/",
                 "id": 1163411,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2020-01-02T18:51:48Z",
+                "open_issues": 2,
                 "owner": "kaffe",
                 "repo": "kaffe",
-                "stars": 439
+                "stars": 439,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             },
@@ -1698,12 +2625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "clone of git://git.code.sf.net/p/jamvm/code for experimental branches",
+                "homepage": null,
                 "id": 13487876,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2017-03-11T03:58:31Z",
+                "open_issues": 0,
                 "owner": "cfriedt",
                 "repo": "jamvm",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
             }
@@ -1722,12 +2654,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+            "homepage": "https://analysis-tools.dev",
             "id": 48246447,
             "language": "Rust",
-            "last_commit": "2026-08-28T11:10:01Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:40:37Z",
+            "open_issues": 11,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14751
+            "stars": 14752,
+            "topics": [
+              "analysis",
+              "awesome-list",
+              "code-quality",
+              "hacktoberfest",
+              "linter",
+              "sast",
+              "static-analysis",
+              "static-analyzers",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
         },
@@ -1738,12 +2685,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A categorized list of C++ resources.",
+            "homepage": null,
             "id": 40364738,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-27T01:54:23Z",
+            "open_issues": 1,
             "owner": "MattPD",
             "repo": "cpplinks",
-            "stars": 5283
+            "stars": 5283,
+            "topics": [
+              "assembly",
+              "c-plus-plus",
+              "compilers",
+              "computer-architecture",
+              "cplusplus",
+              "cpp",
+              "debugging"
+            ]
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
         },
@@ -1754,12 +2714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Witchcraft Compiler Collection",
+            "homepage": null,
             "id": 65269564,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T09:15:28Z",
+            "open_issues": 0,
             "owner": "endrazine",
             "repo": "wcc",
-            "stars": 2011
+            "stars": 2012,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
         },
@@ -1770,12 +2735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources for type theory, functional programming, etc.",
+            "homepage": null,
             "id": 14816191,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-18T09:49:12Z",
+            "open_issues": 0,
             "owner": "williamdemeo",
             "repo": "TypeFunc",
-            "stars": 323
+            "stars": 323,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
         }
@@ -1784,15 +2754,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:24:05.617Z",
+    "last_updated": "2026-08-29T04:16:46.690Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes",
+      "homepage": "http://aalhour.com/awesome-compilers",
       "id": 63278843,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2024-05-26T14:07:19Z",
+      "open_issues": 60,
       "owner": "aalhour",
       "repo": "awesome-compilers",
-      "stars": 9881
+      "stars": 9882,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "books",
+        "compiler",
+        "interpreter",
+        "list",
+        "programming-language",
+        "resources",
+        "runtime",
+        "virtual-machine"
+      ]
     },
     "original_repository_sha": "906d6f41127aef8987e92cba78856ad45c20637b",
     "enhanced_repository": "enhansome/enhansome-compilers",
