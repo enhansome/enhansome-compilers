@@ -203,7 +203,7 @@
                 "open_issues": 25,
                 "owner": "xoreaxeaxeax",
                 "repo": "movfuscator",
-                "stars": 10496,
+                "stars": 10495,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
@@ -1245,7 +1245,7 @@
                 "open_issues": 5166,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110758,
+                "stars": 110763,
                 "topics": [
                   "javascript",
                   "language",
@@ -1322,7 +1322,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-29T02:09:06Z",
-                "open_issues": 6294,
+                "open_issues": 6296,
                 "owner": "dotnet",
                 "repo": "roslyn",
                 "stars": 20631,
@@ -1374,11 +1374,11 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:44:46Z",
+                "last_commit": "2026-08-29T07:05:46Z",
                 "open_issues": 2194,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18197,
+                "stars": 18199,
                 "topics": [
                   "compiler",
                   "efficient",
@@ -1458,7 +1458,7 @@
                 "open_issues": 537,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6033,
+                "stars": 6034,
                 "topics": [
                   "compiler",
                   "cross-platform",
@@ -1641,7 +1641,7 @@
                 "id": 18459138,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-26T22:37:03Z",
+                "last_commit": "2026-08-29T06:22:49Z",
                 "open_issues": 0,
                 "owner": "FascinatedBox",
                 "repo": "lily",
@@ -1772,7 +1772,7 @@
                 "open_issues": 53,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10723,
+                "stars": 10724,
                 "topics": [
                   "bash",
                   "c",
@@ -2575,7 +2575,7 @@
             "id": 6138801,
             "language": "Standard ML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T11:09:21Z",
+            "last_commit": "2026-08-29T04:40:53Z",
             "open_issues": 248,
             "owner": "CakeML",
             "repo": "cakeml",
@@ -2754,7 +2754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:46.690Z",
+    "last_updated": "2026-08-29T08:19:15.079Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes",
