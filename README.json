@@ -49,7 +49,7 @@
                         "open_issues": 146,
                         "owner": "munificent",
                         "repo": "craftinginterpreters",
-                        "stars": 11047,
+                        "stars": 11051,
                         "topics": [
                           "book",
                           "bytecode",
@@ -221,10 +221,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-09-08T14:55:26Z",
-                "open_issues": 357,
+                "open_issues": 358,
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 9003,
+                "stars": 9008,
                 "topics": [
                   "arm",
                   "arm64",
@@ -291,7 +291,7 @@
                 "open_issues": 242,
                 "owner": "keystone-engine",
                 "repo": "keystone",
-                "stars": 2632,
+                "stars": 2631,
                 "topics": [
                   "arm",
                   "arm64",
@@ -526,7 +526,7 @@
                 "open_issues": 67,
                 "owner": "dlang-community",
                 "repo": "Pegged",
-                "stars": 548,
+                "stars": 549,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
@@ -645,11 +645,11 @@
                 "id": 49662222,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T00:28:33Z",
-                "open_issues": 851,
+                "last_commit": "2026-09-10T05:36:39Z",
+                "open_issues": 852,
                 "owner": "oracle",
                 "repo": "graal",
-                "stars": 21692,
+                "stars": 21693,
                 "topics": [
                   "aot",
                   "compiler",
@@ -794,7 +794,7 @@
                 "open_issues": 48,
                 "owner": "ohmjs",
                 "repo": "ohm",
-                "stars": 5545,
+                "stars": 5544,
                 "topics": [
                   "compiler",
                   "grammars",
@@ -823,7 +823,7 @@
                 "open_issues": 199,
                 "owner": "kach",
                 "repo": "nearley",
-                "stars": 3743,
+                "stars": 3742,
                 "topics": [
                   "earley-algorithm",
                   "earley-parser",
@@ -1057,7 +1057,7 @@
                 "open_issues": 291,
                 "owner": "rust-bakery",
                 "repo": "nom",
-                "stars": 10468,
+                "stars": 10469,
                 "topics": [
                   "byte-array",
                   "grammar",
@@ -1241,11 +1241,11 @@
                 "id": 20929025,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T04:23:07Z",
-                "open_issues": 5046,
+                "last_commit": "2026-09-09T22:28:55Z",
+                "open_issues": 5039,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110975,
+                "stars": 110979,
                 "topics": [
                   "javascript",
                   "language",
@@ -1267,11 +1267,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T18:25:44Z",
-                "open_issues": 781,
+                "last_commit": "2026-09-09T22:30:18Z",
+                "open_issues": 773,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43993,
+                "stars": 43990,
                 "topics": [
                   "ast",
                   "babel",
@@ -1300,7 +1300,7 @@
                 "open_issues": 2825,
                 "owner": "ziglang",
                 "repo": "zig",
-                "stars": 43316,
+                "stars": 43308,
                 "topics": [
                   "compiler",
                   "language",
@@ -1321,11 +1321,11 @@
                 "id": 29078997,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-09T04:08:12Z",
-                "open_issues": 6313,
+                "last_commit": "2026-09-10T06:20:32Z",
+                "open_issues": 6305,
                 "owner": "dotnet",
                 "repo": "roslyn",
-                "stars": 20651,
+                "stars": 20653,
                 "topics": [
                   "csharp",
                   "hacktoberfest",
@@ -1348,7 +1348,7 @@
                 "id": 455600,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T21:37:25Z",
+                "last_commit": "2026-09-10T06:03:14Z",
                 "open_issues": 547,
                 "owner": "facebook",
                 "repo": "hhvm",
@@ -1374,11 +1374,11 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T04:53:04Z",
-                "open_issues": 2194,
+                "last_commit": "2026-09-10T06:24:38Z",
+                "open_issues": 2191,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18224,
+                "stars": 18228,
                 "topics": [
                   "compiler",
                   "efficient",
@@ -1408,7 +1408,7 @@
                 "open_issues": 272,
                 "owner": "wren-lang",
                 "repo": "wren",
-                "stars": 8130,
+                "stars": 8129,
                 "topics": [
                   "bytecode",
                   "c",
@@ -1437,7 +1437,7 @@
                 "open_issues": 151,
                 "owner": "cisco",
                 "repo": "ChezScheme",
-                "stars": 7346,
+                "stars": 7348,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 32,
                 "owner": "p-org",
                 "repo": "P",
-                "stars": 3678,
+                "stars": 3679,
                 "topics": [
                   "asynchronous",
                   "distributed-systems",
@@ -1730,7 +1730,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28563,
+                "stars": 28561,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
@@ -1751,7 +1751,7 @@
                 "open_issues": 29,
                 "owner": "rswier",
                 "repo": "c4",
-                "stars": 10797,
+                "stars": 10799,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
@@ -1772,7 +1772,7 @@
                 "open_issues": 54,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10727,
+                "stars": 10729,
                 "topics": [
                   "bash",
                   "c",
@@ -2498,7 +2498,7 @@
             "id": 455600,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T21:37:25Z",
+            "last_commit": "2026-09-10T06:03:14Z",
             "open_issues": 547,
             "owner": "facebook",
             "repo": "hhvm",
@@ -2554,11 +2554,11 @@
             "id": 374927,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T05:09:18Z",
-            "open_issues": 592,
+            "last_commit": "2026-09-09T13:50:10Z",
+            "open_issues": 591,
             "owner": "erlang",
             "repo": "otp",
-            "stars": 12336,
+            "stars": 12329,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
@@ -2575,11 +2575,11 @@
             "id": 6138801,
             "language": "Standard ML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T02:30:44Z",
+            "last_commit": "2026-09-09T21:12:07Z",
             "open_issues": 248,
             "owner": "CakeML",
             "repo": "cakeml",
-            "stars": 1190,
+            "stars": 1191,
             "topics": [
               "compiler",
               "formal-semantics",
@@ -2659,11 +2659,11 @@
             "id": 48246447,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T11:05:43Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-09T10:20:54Z",
+            "open_issues": 11,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14769,
+            "stars": 14774,
             "topics": [
               "analysis",
               "awesome-list",
@@ -2690,11 +2690,11 @@
             "id": 40364738,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-09T02:33:11Z",
+            "last_commit": "2026-09-10T02:38:22Z",
             "open_issues": 1,
             "owner": "MattPD",
             "repo": "cpplinks",
-            "stars": 5289,
+            "stars": 5291,
             "topics": [
               "assembly",
               "c-plus-plus",
@@ -2723,7 +2723,7 @@
             "open_issues": 0,
             "owner": "endrazine",
             "repo": "wcc",
-            "stars": 2013,
+            "stars": 2012,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
@@ -2754,7 +2754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:46:04.416Z",
+    "last_updated": "2026-09-10T06:40:07.497Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes",
