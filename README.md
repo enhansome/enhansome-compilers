@@ -2,7 +2,7 @@
 
 A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Compilers, Interpreters and Runtimes. This list has a bias towards education.
 
-[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
+[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,833 | 🐛 106 | 📅 2026-09-02
 
 ***
 
@@ -282,7 +282,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Language Agnostic
 
-* [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,508 | 🐛 26 | 🌐 C | 📅 2024-05-29 - The `M/o/Vfuscator` compiles programs into "mov" instructions, and only "mov" instructions.
+* [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,507 | 🐛 26 | 🌐 C | 📅 2024-05-29 - The `M/o/Vfuscator` compiles programs into "mov" instructions, and only "mov" instructions.
 * [Capstone](https://github.com/aquynh/capstone) ⭐ 9,046 | 🐛 360 | 🌐 C | 📅 2026-09-30 - Lightweight multi-platform, multi-architecture disassembly framework with bindings to various famous programming languages.
 * [Rubinius](https://github.com/rubinius/rubinius) ⭐ 3,094 | 🐛 19 | 🌐 C | 📅 2025-09-11 - Programming Languages Development Platform.
 * [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,640 | 🐛 244 | 🌐 C++ | 📅 2026-07-18 - Lightweight multi-platform, multi-architecture assembler framework with bindings to various famous programming languages.
@@ -330,7 +330,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Graal
 
-* [Graal](https://github.com/graalvm/graal) ⭐ 21,723 | 🐛 862 | 🌐 Java | 📅 2026-10-02 - High-Performance Polyglot Runtime.
+* [Graal](https://github.com/graalvm/graal) ⭐ 21,723 | 🐛 863 | 🌐 Java | 📅 2026-10-02 - High-Performance Polyglot Runtime.
 * [Graal Core](https://github.com/graalvm/graal-core) - Compiler and Truffel Partial Evaluator.
 * [Graal VM](https://github.com/graalvm/graalvm) - Graal's multi-language VM distribution.
 
@@ -398,12 +398,12 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Serious Projects
 
-* [TypeScript's Compiler](https://github.com/Microsoft/TypeScript) ⭐ 111,314 | 🐛 5,052 | 🌐 Go | 📅 2026-10-03.
-* [Babel.js](https://github.com/babel/babel) ⭐ 44,046 | 🐛 768 | 🌐 TypeScript | 📅 2026-10-02 - Next-generation JavaScript Compiler.
+* [TypeScript's Compiler](https://github.com/Microsoft/TypeScript) ⭐ 111,314 | 🐛 5,051 | 🌐 Go | 📅 2026-10-03.
+* [Babel.js](https://github.com/babel/babel) ⭐ 44,047 | 🐛 768 | 🌐 TypeScript | 📅 2026-10-02 - Next-generation JavaScript Compiler.
 * [Zig's Compiler](https://github.com/zig-lang/zig) ⭐ 43,311 | 🐛 2,780 | 🌐 Zig | 📅 2025-11-27 - Zig Language Compiler.
 * [Roslyn](https://github.com/dotnet/roslyn) ⭐ 20,700 | 🐛 6,700 | 🌐 C# | 📅 2026-10-03 - The .NET "Roslyn" Compiler Platform.
-* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,664 | 🐛 550 | 🌐 C++ | 📅 2026-10-03 - Virtual Machine for running programs written in Hack and PHP.
-* [Nim's Compiler](https://github.com/nim-lang/Nim) ⭐ 18,249 | 🐛 2,219 | 🌐 Nim | 📅 2026-10-03.
+* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,663 | 🐛 550 | 🌐 C++ | 📅 2026-10-03 - Virtual Machine for running programs written in Hack and PHP.
+* [Nim's Compiler](https://github.com/nim-lang/Nim) ⭐ 18,249 | 🐛 2,215 | 🌐 Nim | 📅 2026-10-03.
 * [Wren's Compiler](https://github.com/munificent/wren) ⭐ 8,141 | 🐛 278 | 🌐 Wren | 📅 2025-11-19.
 * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) ⭐ 7,362 | 🐛 148 | 🌐 Scheme | 📅 2026-10-01 - ChezScheme Language Compiler.
 * [Red's Compiler](https://github.com/red/red) ⭐ 6,046 | 🐛 540 | 🌐 Red | 📅 2026-09-30.
@@ -459,10 +459,10 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ## Runtimes and VMs
 
-* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,664 | 🐛 550 | 🌐 C++ | 📅 2026-10-03 - Facebook's Open Source VM for running Hack and PHP programs.
+* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,663 | 🐛 550 | 🌐 C++ | 📅 2026-10-03 - Facebook's Open Source VM for running Hack and PHP programs.
 * [CoreCLR](https://github.com/dotnet/coreclr) ⚠️ Archived - The .NET's Common Language Runtime.
-* [Erlang BEAM](https://github.com/erlang/otp) ⭐ 12,349 | 🐛 620 | 🌐 Erlang | 📅 2026-10-02.
-* [CakeML](https://github.com/CakeML/cakeml) ⭐ 1,200 | 🐛 255 | 🌐 Standard ML | 📅 2026-10-02.
+* [Erlang BEAM](https://github.com/erlang/otp) ⭐ 12,350 | 🐛 620 | 🌐 Erlang | 📅 2026-10-02.
+* [CakeML](https://github.com/CakeML/cakeml) ⭐ 1,200 | 🐛 255 | 🌐 Standard ML | 📅 2026-10-03.
 * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
 * JVM Implementations:
   * [Kaffe](https://github.com/kaffe/kaffe) ⚠️ Archived.
