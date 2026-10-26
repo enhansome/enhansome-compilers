@@ -49,7 +49,7 @@
                         "open_issues": 146,
                         "owner": "munificent",
                         "repo": "craftinginterpreters",
-                        "stars": 11115,
+                        "stars": 11119,
                         "topics": [
                           "book",
                           "bytecode",
@@ -221,10 +221,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-24T14:35:43Z",
-                "open_issues": 346,
+                "open_issues": 347,
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 9133,
+                "stars": 9134,
                 "topics": [
                   "arm",
                   "arm64",
@@ -645,11 +645,11 @@
                 "id": 49662222,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T08:21:38Z",
+                "last_commit": "2026-10-25T19:20:30Z",
                 "open_issues": 895,
                 "owner": "oracle",
                 "repo": "graal",
-                "stars": 21740,
+                "stars": 21741,
                 "topics": [
                   "aot",
                   "compiler",
@@ -682,7 +682,7 @@
                 "open_issues": 52,
                 "owner": "haskell",
                 "repo": "parsec",
-                "stars": 890,
+                "stars": 889,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
@@ -794,7 +794,7 @@
                 "open_issues": 48,
                 "owner": "ohmjs",
                 "repo": "ohm",
-                "stars": 5554,
+                "stars": 5555,
                 "topics": [
                   "compiler",
                   "grammars",
@@ -953,7 +953,7 @@
                 "open_issues": 312,
                 "owner": "bytedeco",
                 "repo": "javacpp-presets",
-                "stars": 2848,
+                "stars": 2850,
                 "topics": [
                   "android",
                   "java",
@@ -1086,7 +1086,7 @@
                 "open_issues": 65,
                 "owner": "pest-parser",
                 "repo": "pest",
-                "stars": 5411,
+                "stars": 5412,
                 "topics": [
                   "parsing",
                   "peg",
@@ -1136,7 +1136,7 @@
                 "open_issues": 43,
                 "owner": "kevinmehall",
                 "repo": "rust-peg",
-                "stars": 1604,
+                "stars": 1605,
                 "topics": [
                   "grammar",
                   "parser-generator",
@@ -1241,11 +1241,11 @@
                 "id": 20929025,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T00:19:21Z",
-                "open_issues": 5193,
+                "last_commit": "2026-10-26T00:58:12Z",
+                "open_issues": 5204,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 111596,
+                "stars": 111616,
                 "topics": [
                   "javascript",
                   "language",
@@ -1267,11 +1267,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T22:21:51Z",
-                "open_issues": 810,
+                "last_commit": "2026-10-26T00:32:27Z",
+                "open_issues": 811,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44048,
+                "stars": 44049,
                 "topics": [
                   "ast",
                   "babel",
@@ -1300,7 +1300,7 @@
                 "open_issues": 2720,
                 "owner": "ziglang",
                 "repo": "zig",
-                "stars": 43268,
+                "stars": 43267,
                 "topics": [
                   "compiler",
                   "language",
@@ -1321,11 +1321,11 @@
                 "id": 29078997,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-24T02:02:43Z",
-                "open_issues": 6744,
+                "last_commit": "2026-10-26T06:42:09Z",
+                "open_issues": 6749,
                 "owner": "dotnet",
                 "repo": "roslyn",
-                "stars": 20754,
+                "stars": 20755,
                 "topics": [
                   "csharp",
                   "hacktoberfest",
@@ -1352,7 +1352,7 @@
                 "open_issues": 559,
                 "owner": "facebook",
                 "repo": "hhvm",
-                "stars": 18676,
+                "stars": 18677,
                 "topics": [
                   "hack",
                   "hacklang",
@@ -1374,11 +1374,11 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T04:08:49Z",
-                "open_issues": 2132,
+                "last_commit": "2026-10-26T04:48:37Z",
+                "open_issues": 2127,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18284,
+                "stars": 18286,
                 "topics": [
                   "compiler",
                   "efficient",
@@ -1408,7 +1408,7 @@
                 "open_issues": 278,
                 "owner": "wren-lang",
                 "repo": "wren",
-                "stars": 8158,
+                "stars": 8160,
                 "topics": [
                   "bytecode",
                   "c",
@@ -1437,7 +1437,7 @@
                 "open_issues": 152,
                 "owner": "cisco",
                 "repo": "ChezScheme",
-                "stars": 7374,
+                "stars": 7376,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
@@ -1454,11 +1454,11 @@
                 "id": 1449773,
                 "language": "Red",
                 "license": "BSL-1.0",
-                "last_commit": "2026-10-24T18:29:44Z",
+                "last_commit": "2026-10-25T20:43:18Z",
                 "open_issues": 540,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6066,
+                "stars": 6069,
                 "topics": [
                   "compiler",
                   "cross-platform",
@@ -1624,7 +1624,7 @@
                 "open_issues": 6,
                 "owner": "LuaDist",
                 "repo": "lua",
-                "stars": 1491,
+                "stars": 1492,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
@@ -1689,7 +1689,7 @@
                 "id": 13586508,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-18T18:47:37Z",
+                "last_commit": "2026-10-25T20:42:34Z",
                 "open_issues": 125,
                 "owner": "ELENA-LANG",
                 "repo": "elena-lang",
@@ -1730,7 +1730,7 @@
                 "open_issues": 16,
                 "owner": "jamiebuilds",
                 "repo": "the-super-tiny-compiler",
-                "stars": 28551,
+                "stars": 28549,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:05.617Z"
@@ -1772,7 +1772,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10748,
+                "stars": 10749,
                 "topics": [
                   "bash",
                   "c",
@@ -2502,7 +2502,7 @@
             "open_issues": 559,
             "owner": "facebook",
             "repo": "hhvm",
-            "stars": 18676,
+            "stars": 18677,
             "topics": [
               "hack",
               "hacklang",
@@ -2558,7 +2558,7 @@
             "open_issues": 686,
             "owner": "erlang",
             "repo": "otp",
-            "stars": 12357,
+            "stars": 12358,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:05.617Z"
@@ -2575,8 +2575,8 @@
             "id": 6138801,
             "language": "Standard ML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T02:18:22Z",
-            "open_issues": 238,
+            "last_commit": "2026-10-26T06:48:20Z",
+            "open_issues": 240,
             "owner": "CakeML",
             "repo": "cakeml",
             "stars": 1216,
@@ -2663,7 +2663,7 @@
             "open_issues": 2,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14851,
+            "stars": 14855,
             "topics": [
               "analysis",
               "awesome-list",
@@ -2690,11 +2690,11 @@
             "id": 40364738,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-20T02:57:52Z",
+            "last_commit": "2026-10-25T14:37:57Z",
             "open_issues": 3,
             "owner": "MattPD",
             "repo": "cpplinks",
-            "stars": 5309,
+            "stars": 5312,
             "topics": [
               "assembly",
               "c-plus-plus",
@@ -2754,7 +2754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T06:58:07.746Z",
+    "last_updated": "2026-10-26T07:03:17.028Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes",
@@ -2766,7 +2766,7 @@
       "open_issues": 68,
       "owner": "aalhour",
       "repo": "awesome-compilers",
-      "stars": 9946,
+      "stars": 9948,
       "topics": [
         "awesome",
         "awesome-list",
