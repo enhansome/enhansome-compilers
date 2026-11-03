@@ -2,7 +2,7 @@
 
 A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Compilers, Interpreters and Runtimes. This list has a bias towards education.
 
-[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 529,084 | 🐛 105 | 📅 2026-09-02
+[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 529,893 | 🐛 104 | 📅 2026-09-02
 
 ***
 
@@ -66,7 +66,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Learn C and build your own Lisp Programming Language in 1000 LoC.
 * [Compilers: Principles, Techniques and Tools](https://www.amazon.com/dp/0321486811) - The Dragons Book. A classic textbook on Compiler Construction.
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) - An all-stop-shop for learning (nearly) everything you need to learn to build an interpreted, full-featured, efficient scripting language.
-  * [GitHub Repo](https://github.com/munificent/craftinginterpreters) ⭐ 11,130 | 🐛 146 | 🌐 HTML | 📅 2024-08-07.
+  * [GitHub Repo](https://github.com/munificent/craftinginterpreters) ⭐ 11,132 | 🐛 146 | 🌐 HTML | 📅 2024-08-07.
   * Discussions: [HN](https://news.ycombinator.com/item?id=13406081).
 * [Create Your Own Programming Languauge](http://createyourproglang.com/) - Example-driven approach to building your own programming language with video tutorials and source code projects.
   * Discussions: [HN](https://news.ycombinator.com/item?id=813133).
@@ -282,8 +282,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Language Agnostic
 
-* [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,588 | 🐛 26 | 🌐 C | 📅 2024-05-29 - The `M/o/Vfuscator` compiles programs into "mov" instructions, and only "mov" instructions.
-* [Capstone](https://github.com/aquynh/capstone) ⭐ 9,160 | 🐛 356 | 🌐 C | 📅 2026-10-27 - Lightweight multi-platform, multi-architecture disassembly framework with bindings to various famous programming languages.
+* [Movfuscator Compiler](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,589 | 🐛 26 | 🌐 C | 📅 2024-05-29 - The `M/o/Vfuscator` compiles programs into "mov" instructions, and only "mov" instructions.
+* [Capstone](https://github.com/aquynh/capstone) ⭐ 9,161 | 🐛 350 | 🌐 C | 📅 2026-11-02 - Lightweight multi-platform, multi-architecture disassembly framework with bindings to various famous programming languages.
 * [Rubinius](https://github.com/rubinius/rubinius) ⭐ 3,094 | 🐛 19 | 🌐 C | 📅 2025-09-11 - Programming Languages Development Platform.
 * [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,653 | 🐛 243 | 🌐 C++ | 📅 2026-10-12 - Lightweight multi-platform, multi-architecture assembler framework with bindings to various famous programming languages.
 * [LLILCL](https://github.com/dotnet/llilc) ⚠️ Archived - LLVM-based Compiler Backend for .NET Core.
@@ -296,9 +296,9 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### C / C++
 
-* [AsmJIT](https://github.com/asmjit/asmjit) ⭐ 4,632 | 🐛 28 | 🌐 C++ | 📅 2026-10-17 - Complete x86/x64 JIT and Remote Assembler for C++.
-* [LCC](https://github.com/drh/lcc) ⭐ 2,633 | 🐛 43 | 🌐 C | 📅 2024-10-06 - The lcc retargetable ANSI C compiler (C as a Backend).
-* [OrangeC](http://github.com/LADSoft/OrangeC) ⭐ 339 | 🐛 119 | 🌐 C++ | 📅 2026-10-14 - Win32 C11/C++2014 compiler and toolchain.
+* [AsmJIT](https://github.com/asmjit/asmjit) ⭐ 4,635 | 🐛 26 | 🌐 C++ | 📅 2026-11-03 - Complete x86/x64 JIT and Remote Assembler for C++.
+* [LCC](https://github.com/drh/lcc) ⭐ 2,634 | 🐛 43 | 🌐 C | 📅 2024-10-06 - The lcc retargetable ANSI C compiler (C as a Backend).
+* [OrangeC](http://github.com/LADSoft/OrangeC) ⭐ 339 | 🐛 120 | 🌐 C++ | 📅 2026-10-14 - Win32 C11/C++2014 compiler and toolchain.
 * [GCC](https://gcc.gnu.org/) - The GNU Compiler Collection (C as a Backend).
 * [libFirm](http://pp.ipd.kit.edu/firm/) - C-library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers.
 * [libJIT](https://www.gnu.org/software/libjit/) - Library for generic Just-In-Time compiler functionality independent of any particular bytecode, language, or runtime.
@@ -330,7 +330,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Graal
 
-* [Graal](https://github.com/graalvm/graal) ⭐ 21,748 | 🐛 909 | 🌐 Java | 📅 2026-11-02 - High-Performance Polyglot Runtime.
+* [Graal](https://github.com/graalvm/graal) ⭐ 21,747 | 🐛 908 | 🌐 Java | 📅 2026-11-03 - High-Performance Polyglot Runtime.
 * [Graal Core](https://github.com/graalvm/graal-core) - Compiler and Truffel Partial Evaluator.
 * [Graal VM](https://github.com/graalvm/graalvm) - Graal's multi-language VM distribution.
 
@@ -355,7 +355,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 ### JVM
 
 * [CGLIB](https://github.com/cglib/cglib) ⭐ 4,885 | 🐛 95 | 🌐 Java | 📅 2024-08-16 - High level API library for generating and transforming Java Byte Code.
-* [JavaCPP Presets for LLVM](https://github.com/bytedeco/javacpp-presets/tree/master/llvm) ⭐ 2,851 | 🐛 312 | 🌐 Java | 📅 2026-11-01 - Library for easily interacting with the LLVM API.
+* [JavaCPP Presets for LLVM](https://github.com/bytedeco/javacpp-presets/tree/master/llvm) ⭐ 2,852 | 🐛 312 | 🌐 Java | 📅 2026-11-03 - Library for easily interacting with the LLVM API.
 * [ANTLR](http://www.antlr.org) - Parser generator for reading, processing, executing, or translating structured text or binary files.
 * [BYAAC/J](http://byaccj.sourceforge.net) - BYACC/Java is an extension of the Berkeley v 1.8 YACC-compatible parser generator for Java.
 * [FCP JVM](http://wiki.freepascal.org/FPC_JVM) - JVM Backend for generating Java Byte Code that conforms to the JDK v1.5+ Specification and the Dalvik VM.
@@ -398,34 +398,34 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Serious Projects
 
-* [TypeScript's Compiler](https://github.com/Microsoft/TypeScript) ⭐ 111,715 | 🐛 5,244 | 🌐 Go | 📅 2026-11-02.
-* [Babel.js](https://github.com/babel/babel) ⭐ 44,054 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-01 - Next-generation JavaScript Compiler.
-* [Zig's Compiler](https://github.com/zig-lang/zig) ⭐ 43,259 | 🐛 2,714 | 🌐 Zig | 📅 2025-11-27 - Zig Language Compiler.
-* [Roslyn](https://github.com/dotnet/roslyn) ⭐ 20,760 | 🐛 6,726 | 🌐 C# | 📅 2026-11-02 - The .NET "Roslyn" Compiler Platform.
-* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,680 | 🐛 563 | 🌐 C++ | 📅 2026-11-02 - Virtual Machine for running programs written in Hack and PHP.
-* [Nim's Compiler](https://github.com/nim-lang/Nim) ⭐ 18,297 | 🐛 2,156 | 🌐 Nim | 📅 2026-11-02.
-* [Wren's Compiler](https://github.com/munificent/wren) ⭐ 8,172 | 🐛 278 | 🌐 Wren | 📅 2025-11-19.
-* [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) ⭐ 7,380 | 🐛 158 | 🌐 Scheme | 📅 2026-10-23 - ChezScheme Language Compiler.
-* [Red's Compiler](https://github.com/red/red) ⭐ 6,073 | 🐛 519 | 🌐 Red | 📅 2026-11-01.
-* [P Lang](https://github.com/p-org/P) ⭐ 3,725 | 🐛 35 | 🌐 C# | 📅 2026-09-03 - The P Programming Language Runtime.
+* [TypeScript's Compiler](https://github.com/Microsoft/TypeScript) ⭐ 111,723 | 🐛 5,272 | 🌐 Go | 📅 2026-11-03.
+* [Babel.js](https://github.com/babel/babel) ⭐ 44,056 | 🐛 745 | 🌐 TypeScript | 📅 2026-11-03 - Next-generation JavaScript Compiler.
+* [Zig's Compiler](https://github.com/zig-lang/zig) ⭐ 43,258 | 🐛 2,713 | 🌐 Zig | 📅 2025-11-27 - Zig Language Compiler.
+* [Roslyn](https://github.com/dotnet/roslyn) ⭐ 20,760 | 🐛 6,713 | 🌐 C# | 📅 2026-11-03 - The .NET "Roslyn" Compiler Platform.
+* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,681 | 🐛 563 | 🌐 C++ | 📅 2026-11-02 - Virtual Machine for running programs written in Hack and PHP.
+* [Nim's Compiler](https://github.com/nim-lang/Nim) ⭐ 18,296 | 🐛 2,157 | 🌐 Nim | 📅 2026-11-03.
+* [Wren's Compiler](https://github.com/munificent/wren) ⭐ 8,173 | 🐛 278 | 🌐 Wren | 📅 2025-11-19.
+* [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) ⭐ 7,380 | 🐛 155 | 🌐 Scheme | 📅 2026-11-02 - ChezScheme Language Compiler.
+* [Red's Compiler](https://github.com/red/red) ⭐ 6,073 | 🐛 519 | 🌐 Red | 📅 2026-11-02.
+* [P Lang](https://github.com/p-org/P) ⭐ 3,726 | 🐛 35 | 🌐 C# | 📅 2026-09-03 - The P Programming Language Runtime.
 * [Frege's Compiler](https://github.com/Frege/frege) ⭐ 3,711 | 🐛 44 | 🌐 Frege | 📅 2026-07-11 - JVM-based Compiler for the Frege Programming Language.
-* [Gluon's Compiler](https://github.com/gluon-lang/gluon) ⭐ 3,457 | 🐛 163 | 🌐 Rust | 📅 2026-08-06 - Embedded Language Compiler written in Rust.
+* [Gluon's Compiler](https://github.com/gluon-lang/gluon) ⭐ 3,457 | 🐛 164 | 🌐 Rust | 📅 2026-11-02 - Embedded Language Compiler written in Rust.
 * [Eta' Compiler](https://github.com/typelead/eta) ⭐ 2,639 | 🐛 242 | 🌐 Haskell | 📅 2022-07-31 - JVM-based Compiler for the Eta Programming Language.
 * [BOLT](https://github.com/facebookincubator/BOLT) ⚠️ Archived - Binary Optimization and Layout Tool.
 * [Lua's Interpreter](https://github.com/LuaDist/lua) ⚠️ Archived - Official Lua Language Interperter.
   * [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/) - Annotated source code of the Lua Programming Language Interpreter v5.1.4.
 * [Lily's Interpreter](https://github.com/FascinatedBox/lily) ⭐ 1,096 | 🐛 0 | 🌐 C | 📅 2026-11-02.
 * [Mirah's Compiler](https://github.com/mirah/mirah) ⭐ 864 | 🐛 140 | 🌐 HTML | 📅 2026-05-23 - JVM-based Compiler for the Mirah Programming Language.
-* [ELENA Compiler](https://github.com/ELENA-LANG/elena-lang) ⭐ 239 | 🐛 125 | 🌐 C++ | 📅 2026-10-31 - Elena programming language.
+* [ELENA Compiler](https://github.com/ELENA-LANG/elena-lang) ⭐ 239 | 🐛 125 | 🌐 C++ | 📅 2026-11-03 - Elena programming language.
 * [Simple-MSIL-Compiler](https://github.com/LADSoft/Simple-MSIL-Compiler) - C compiler that compiles to CLR.
 
 ### Educational and Toy Projects
 
 * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) ⭐ 28,549 | 🐛 16 | 🌐 JavaScript | 📅 2024-02-19 - Tiny educational compiler project in JavaScript.
   * Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
-* [C4](https://github.com/rswier/c4) ⭐ 10,824 | 🐛 29 | 🌐 C | 📅 2023-12-26 - C Lang in 4 Functions.
+* [C4](https://github.com/rswier/c4) ⭐ 10,825 | 🐛 29 | 🌐 C | 📅 2023-12-26 - C Lang in 4 Functions.
   * Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
-* [MAL](https://github.com/kanaka/mal) ⭐ 10,756 | 🐛 57 | 🌐 Assembly | 📅 2025-10-22: Make a Lisp - Clojure-inspired Lisp interpreter implemented in 64 languages.
+* [MAL](https://github.com/kanaka/mal) ⭐ 10,757 | 🐛 57 | 🌐 Assembly | 📅 2025-10-22: Make a Lisp - Clojure-inspired Lisp interpreter implemented in 64 languages.
 * [MetaScala](https://github.com/lihaoyi/Metascala) ⭐ 1,186 | 🐛 0 | 🌐 Scala | 📅 2023-07-23 - Metacircular JVM implementation in Scala.
 * [amacc](https://github.com/jserv/amacc) ⭐ 1,062 | 🐛 7 | 🌐 C | 📅 2025-08-05 - Small C Compiler generating ELF executable for Arm architecture.
   * Discussions: [HN](https://news.ycombinator.com/item?id=11411124).
@@ -435,7 +435,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 * [Hython](https://github.com/mattgreen/hython) ⭐ 581 | 🐛 0 | 🌐 Haskell | 📅 2017-08-01 - Haskell-powered Python 3 interpreter.
   * Discussions: [Reddit](https://redd.it/46f8j4).
 * [MY-BASIC](https://github.com/paladin-t/my_basic) ⭐ 573 | 🐛 30 | 🌐 C | 📅 2026-08-31 - An embeddable BASIC dialect interpreter in C with modern paradigms.
-* [tisp](https://github.com/raviqqe/tisp) ⭐ 414 | 🐛 10 | 🌐 Go | 📅 2026-10-30 - "Time is Space" Programming Language Interpreter.
+* [tisp](https://github.com/raviqqe/tisp) ⭐ 414 | 🐛 10 | 🌐 Go | 📅 2026-11-02 - "Time is Space" Programming Language Interpreter.
 * [Poprc](https://github.com/HackerFoo/poprc) ⭐ 259 | 🐛 0 | 🌐 C | 📅 2021-01-07 - Compiler for the Popr Language.
 * [Charly](https://github.com/charly-lang/charly) ⭐ 203 | 🐛 14 | 🌐 Crystal | 📅 2020-03-23 - Interpreter for a dynamically typed language written in Crystal.
 * [Ultra Tiny Compiler](https://github.com/antonmedv/ultra-tiny-compiler) ⭐ 186 | 🐛 0 | 🌐 CoffeeScript | 📅 2026-02-10 - Another tiny compiler in less then 90 lines of code.
@@ -459,10 +459,10 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ## Runtimes and VMs
 
-* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,680 | 🐛 563 | 🌐 C++ | 📅 2026-11-02 - Facebook's Open Source VM for running Hack and PHP programs.
+* [HHVM](https://github.com/facebook/hhvm) ⭐ 18,681 | 🐛 563 | 🌐 C++ | 📅 2026-11-02 - Facebook's Open Source VM for running Hack and PHP programs.
 * [CoreCLR](https://github.com/dotnet/coreclr) ⚠️ Archived - The .NET's Common Language Runtime.
-* [Erlang BEAM](https://github.com/erlang/otp) ⭐ 12,353 | 🐛 698 | 🌐 Erlang | 📅 2026-10-30.
-* [CakeML](https://github.com/CakeML/cakeml) ⭐ 1,219 | 🐛 245 | 🌐 Standard ML | 📅 2026-11-02.
+* [Erlang BEAM](https://github.com/erlang/otp) ⭐ 12,353 | 🐛 703 | 🌐 Erlang | 📅 2026-11-03.
+* [CakeML](https://github.com/CakeML/cakeml) ⭐ 1,220 | 🐛 245 | 🌐 Standard ML | 📅 2026-11-02.
 * [HLVM](http://www.ffconsultancy.com/ocaml/hlvm/).
 * JVM Implementations:
   * [Kaffe](https://github.com/kaffe/kaffe) ⚠️ Archived.
@@ -487,8 +487,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ## Verticals
 
-* [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis) ⭐ 14,862 | 🐛 1 | 🌐 Rust | 📅 2026-11-01.
-* [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences) ⭐ 5,310 | 🐛 3 | 📅 2026-11-02.
+* [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis) ⭐ 14,865 | 🐛 1 | 🌐 Rust | 📅 2026-11-01.
+* [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences) ⭐ 5,310 | 🐛 3 | 📅 2026-11-03.
 * [The Witchcraft Compiler Collection](https://github.com/endrazine/wcc) ⭐ 2,015 | 🐛 0 | 🌐 C | 📅 2026-07-17.
 * [TypeFunc](https://github.com/williamdemeo/TypeFunc) ⭐ 324 | 🐛 0 | 📅 2021-03-18.
 * [68 Resources for Creating Programming Languages](https://tomassetti.me/resources-create-programming-languages/).
@@ -518,4 +518,4 @@ The logo was designed using [TextCraft](https://textcraft.net).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
